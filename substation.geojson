@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-22T07:48:43Z",
+  "timestamp": "2021-09-01T07:17:05Z",
   "features": [
     {
       "type": "Feature",
@@ -9281,6 +9281,8 @@
       "properties": {
         "@id": "way/154423813",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012;Enedis - 06/18",
         "substation": "minor_distribution"
@@ -10268,6 +10270,8 @@
       "properties": {
         "@id": "way/154424569",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012;local knowledge",
         "substation": "minor_distribution"
@@ -10277,24 +10281,24 @@
         "coordinates": [
           [
             [
-              1.910505,
-              47.886079
+              1.910504,
+              47.8860797
             ],
             [
-              1.910504,
-              47.886115
+              1.9105035,
+              47.8861147
+            ],
+            [
+              1.9104515,
+              47.8861143
             ],
             [
               1.910452,
-              47.886114
+              47.8860793
             ],
             [
-              1.910453,
-              47.88608
-            ],
-            [
-              1.910505,
-              47.886079
+              1.910504,
+              47.8860797
             ]
           ]
         ]
@@ -10432,6 +10436,8 @@
       "properties": {
         "@id": "way/154424830",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "substation": "minor_distribution"
@@ -10441,24 +10447,24 @@
         "coordinates": [
           [
             [
-              1.910536,
-              47.884083
+              1.9105358,
+              47.8840827
             ],
             [
-              1.910586,
-              47.884096
+              1.9105853,
+              47.8840962
             ],
             [
-              1.910564,
-              47.884132
+              1.9105638,
+              47.8841317
             ],
             [
-              1.910515,
-              47.884118
+              1.9105143,
+              47.8841182
             ],
             [
-              1.910536,
-              47.884083
+              1.9105358,
+              47.8840827
             ]
           ]
         ]
@@ -27121,6 +27127,8 @@
         "height": "3",
         "mapillary": "VDX0erSXAkuZWSskGGLbTQ",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "ref": "MARCELIN BERTELOT",
         "ref:FR:gdo": "NC",
@@ -36326,6 +36334,8 @@
         "@id": "way/865922030",
         "building": "yes",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "Enedis - 06/2018",
         "substation": "minor_distribution",
@@ -37000,6 +37010,133 @@
         ]
       },
       "id": "way/975274764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/975348448",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "source": "Enedis - 06/2018",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9242137,
+              47.9147598
+            ],
+            [
+              1.9242165,
+              47.9147822
+            ],
+            [
+              1.9241827,
+              47.9147841
+            ],
+            [
+              1.9241799,
+              47.9147616
+            ],
+            [
+              1.9242137,
+              47.9147598
+            ]
+          ]
+        ]
+      },
+      "id": "way/975348448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/975348567",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "source": "Enedis - 06/2018",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9248649,
+              47.9145761
+            ],
+            [
+              1.9248695,
+              47.9145991
+            ],
+            [
+              1.9248088,
+              47.9146045
+            ],
+            [
+              1.9248042,
+              47.9145815
+            ],
+            [
+              1.9248649,
+              47.9145761
+            ]
+          ]
+        ]
+      },
+      "id": "way/975348567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/976737123",
+        "building": "transformer_tower",
+        "mapillary": "373938227432669",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "ref:FR:gdo": "NC",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9544372,
+              47.9656047
+            ],
+            [
+              1.954411,
+              47.9656159
+            ],
+            [
+              1.9543962,
+              47.9656005
+            ],
+            [
+              1.9544224,
+              47.9655893
+            ],
+            [
+              1.9544372,
+              47.9656047
+            ]
+          ]
+        ]
+      },
+      "id": "way/976737123"
     },
     {
       "type": "Feature",
@@ -41326,25 +41463,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7451314642",
-        "operator": "Enedis",
-        "power": "substation",
-        "source": "Enedis - 06/2018",
-        "substation": "minor_distribution",
-        "voltage": "20000;400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9241902,
-          47.9147633
-        ]
-      },
-      "id": "node/7451314642"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7451319691",
         "operator": "Enedis",
         "power": "substation",
@@ -41360,25 +41478,6 @@
         ]
       },
       "id": "node/7451319691"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7451324701",
-        "operator": "Enedis",
-        "power": "substation",
-        "source": "Enedis - 06/2018",
-        "substation": "minor_distribution",
-        "voltage": "20000;400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9248274,
-          47.9145897
-        ]
-      },
-      "id": "node/7451324701"
     },
     {
       "type": "Feature",
@@ -44483,8 +44582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9065176,
-          47.887527
+          1.9064887,
+          47.8875107
         ]
       },
       "id": "node/7453597542"
