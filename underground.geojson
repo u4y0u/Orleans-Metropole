@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-22T06:17:43Z",
+  "timestamp": "2021-09-01T07:06:57Z",
   "features": [
     {
       "type": "Feature",
@@ -394,6 +394,82 @@
         ]
       },
       "id": "node/9024856379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9047404016",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1156159361539537",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9157814,
+          47.9081975
+        ]
+      },
+      "id": "node/9047404016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9050818271",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1561656137560119",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9102442,
+          47.887016
+        ]
+      },
+      "id": "node/9050818271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9052455788",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "910056309579169",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9176707,
+          47.9184873
+        ]
+      },
+      "id": "node/9052455788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9052459716",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "529685884996100",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9172611,
+          47.9171288
+        ]
+      },
+      "id": "node/9052459716"
     }
   ]
 }
