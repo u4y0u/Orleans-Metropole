@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-22T07:29:13Z",
+  "timestamp": "2021-09-01T06:56:43Z",
   "features": [
     {
       "type": "Feature",
@@ -1610,7 +1610,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
-        "mapillary": "O1RG14iKTkUwDAXAdkc3QE",
+        "mapillary": "818958722107824",
         "model": "PM100",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-00GK",
@@ -4326,8 +4326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9123088,
-          47.8817681
+          1.9123181,
+          47.8817687
         ]
       },
       "id": "node/5756597029"
@@ -4648,12 +4648,14 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "4668452769871673",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-6502237",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10555,6 +10557,54 @@
         ]
       },
       "id": "node/8889458546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9044749024",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "mapillary": "427883151982036",
+        "ref:FR:ARCEP": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9133224,
+          47.8881737
+        ]
+      },
+      "id": "node/9044749024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9047487757",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:SFR": "SRO-BPI-6502235",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9115066,
+          47.8918897
+        ]
+      },
+      "id": "node/9047487757"
     }
   ]
 }
