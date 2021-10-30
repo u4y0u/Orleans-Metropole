@@ -13,8 +13,9 @@ Jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disp
 
 Pour visualiser les données de ces fichiers, vous pouvez utiliser:
 
-Application QField https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr
+Sur Android : l'application QField https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr
 
-Projet QGIS https://www.qgis.org/fr/site/ (Système d'Information Géographique Libre et Open Source)
+Sur PC : le projet QGIS https://www.qgis.org/fr/site/ (Système d'Information Géographique Libre et Open Source)
+
 
 Contact via: https://twitter.com/u4y0u
