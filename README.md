@@ -1,14 +1,16 @@
-# Orleans-Metropole
+## Orleans-Metropole
 
 
+# divers équipements
 Bornes incendie (pilar & underground) avec ref issues de OpenStreetMap®.
 
 PMZ (Point de mutualisation) avec ID ARCEP issus de OpenStreetMap®.
 
 Power : Sous Stations avec ref issues de OpenStreetMap®.
 
-# vélo
+# vélos
 Parkings vélos (bollard) issus de OpenStreetMap®.
+
 
 
 Fichiers du Projet QGIS / QField - Version du 30/10/2021. ( https://github.com/u4y0u/Orleans-Metropole/archive/refs/heads/main.zip )
