@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-01T07:03:52Z",
+  "timestamp": "2021-10-30T11:16:46Z",
   "features": [
     {
       "type": "Feature",
@@ -239,7 +239,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "1622915434571453",
-        "ref": "178"
+        "ref": "178",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-06-13"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +262,9 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "RQQukzP64grrhzbtac3kaQ",
         "ref": "246",
-        "source": "Mapillary"
+        "source": "Mapillary",
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-06-13"
       },
       "geometry": {
         "type": "Point",
@@ -300,8 +304,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "L5e5ELcX6mgWs4ZdS6nUag",
         "ref": "128",
-        "source:position": "Mapillary 2020-08-20",
-        "survey:date": "2020-11-09"
+        "source:position": "Mapillary 2018-06-10",
+        "survey:date": "2021-07-04"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +385,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
         "fire_hydrant:type": "pillar",
-        "mapillary": "0ANpRVpdrNofKJ34Nye7vA",
+        "mapillary": "952063345341984",
         "ref": "162",
         "source": "Mapillary"
       },
@@ -519,7 +523,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "yDGSwEiLZKXGiIAPXU54TA",
-        "ref": "168"
+        "ref": "168",
+        "source:position": "Mapillary 2021-07-08",
+        "survey:date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -725,7 +731,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "LWYA4oNmQHiNYmi_Ka1KOg",
-        "ref": "237"
+        "ref": "237",
+        "source:position": "Mapillary 2021-08-28",
+        "survey:date": "2021-06-11"
       },
       "geometry": {
         "type": "Point",
@@ -764,7 +772,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "114303457537853",
         "ref": "99",
-        "source:position": "Mapillary 2020-05-18"
+        "source:position": "Mapillary 2020-03-07",
+        "survey:date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -804,7 +813,10 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
         "fire_hydrant:type": "pillar",
-        "ref": "38"
+        "mapillary": "417127903188203",
+        "ref": "38",
+        "source:position": "Mapillary 2021-09-11",
+        "survey:date": "2021-09-11"
       },
       "geometry": {
         "type": "Point",
@@ -1128,14 +1140,14 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "-H_Mz2w5EwBFmOsZBXWK2Q",
+        "mapillary": "1532608787091195",
         "ref": "167"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9080104,
-          47.9214084
+          1.9080412,
+          47.9214987
         ]
       },
       "id": "node/1352471441"
@@ -1431,8 +1443,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "tXVcPlagVL1k2oD2xzz0wj",
         "ref": "166",
-        "source:position": "Mapillary 2020-06-10",
-        "survey:date": "2020-09-18"
+        "source:position": "Mapillary 2019-02-16",
+        "survey:date": "2021-09-26"
       },
       "geometry": {
         "type": "Point",
@@ -1714,7 +1726,10 @@
       "properties": {
         "@id": "node/3209264953",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "146925707503831",
+        "source:position": "Mapillary 2021-06-21",
+        "survey:date": "2021-06-21"
       },
       "geometry": {
         "type": "Point",
@@ -1990,6 +2005,26 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4401640627",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "315414726606151",
+        "source": "survey",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8818684,
+          47.8554852
+        ]
+      },
+      "id": "node/4401640627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4401640631",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
@@ -2005,6 +2040,26 @@
         ]
       },
       "id": "node/4401640631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401640632",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1747667808769201",
+        "source": "survey",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8811368,
+          47.8569878
+        ]
+      },
+      "id": "node/4401640632"
     },
     {
       "type": "Feature",
@@ -2337,7 +2392,10 @@
         "@id": "node/4422901297",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "source": "survey"
+        "mapillary": "1011781842989636",
+        "source": "survey",
+        "source:position": "Mapillary 2016-12-23",
+        "survey:date": "2021-09-26"
       },
       "geometry": {
         "type": "Point",
@@ -2371,7 +2429,10 @@
         "@id": "node/4422901299",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "source": "survey"
+        "mapillary": "581536746531253",
+        "source": "survey",
+        "source:position": "Mapillary 2021-09-26",
+        "survey:date": "2021-09-26"
       },
       "geometry": {
         "type": "Point",
@@ -2561,7 +2622,10 @@
         "@id": "node/4447599269",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "source": "survey"
+        "mapillary": "274286931181185",
+        "source": "survey",
+        "source:position": "Mapillary 2021-09-26",
+        "survey:date": "2021-09-24"
       },
       "geometry": {
         "type": "Point",
@@ -2580,8 +2644,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "xukYEBiFzdUm-6sqfMuvWw",
         "source": "surveu",
-        "source:position": "Mapillary 2017-05-31",
-        "survey:date": "2018-07-07"
+        "source:position": "Mapillary 2016-12-11",
+        "survey:date": "2021-09-26"
       },
       "geometry": {
         "type": "Point",
@@ -2788,7 +2852,10 @@
         "fire_hydrant:position": "sidewalk",
         "fire_hydrant:pressure": "16",
         "fire_hydrant:type": "pillar",
-        "inscription": "90 PN 16"
+        "inscription": "90 PN 16",
+        "mapillary": "1161534950940452",
+        "source:position": "Mapillary 2017-04-08",
+        "survey:date": "2020-05-27"
       },
       "geometry": {
         "type": "Point",
@@ -2983,22 +3050,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5304615423",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9316554,
-          47.8348152
-        ]
-      },
-      "id": "node/5304615423"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5304615522",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar"
@@ -3016,14 +3067,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5304615921",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9294218,
-          47.831815
+          1.9294411,
+          47.8318331
         ]
       },
       "id": "node/5304615921"
@@ -3032,33 +3085,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5304615923",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "561604575104587",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9314419,
-          47.8351754
+          1.9314144,
+          47.8351822
         ]
       },
       "id": "node/5304615923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5308241127",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9294238,
-          47.8334081
-        ]
-      },
-      "id": "node/5308241127"
     },
     {
       "type": "Feature",
@@ -3667,8 +3707,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "R_LRS4sxSSE13VhVsFYsbA",
         "ref": "76",
-        "source:position": "Mapillary 2019-02-02",
-        "survey:date": "2019-02-02"
+        "source:position": "Mapillary 2021-06-17",
+        "survey:date": "2021-06-17"
       },
       "geometry": {
         "type": "Point",
@@ -3704,8 +3744,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "jcY7KeL7517GshzAOGdTTT",
         "ref": "116",
-        "source:position": "Mapillary 2020-04-26",
-        "survey:date": "2020-12-18"
+        "source:position": "Mapillary 2021-06-27",
+        "survey:date": "2021-06-27"
       },
       "geometry": {
         "type": "Point",
@@ -3855,7 +3895,10 @@
         "@id": "node/5913368997",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "9"
+        "mapillary": "260769985844650",
+        "ref": "9",
+        "source:position": "Mapillary 2021-06-24",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -3872,7 +3915,10 @@
         "@id": "node/5915724061",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "101"
+        "mapillary": "188021496663036",
+        "ref": "101",
+        "source:position": "Mapillary 2021-06-11",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -4151,7 +4197,10 @@
         "@id": "node/5917735762",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "27"
+        "mapillary": "525667888444237",
+        "ref": "27",
+        "source:position": "Mapillary 2021-06-11",
+        "survey:date": "2021-06-11"
       },
       "geometry": {
         "type": "Point",
@@ -4208,8 +4257,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "xM6SKvVjBmtV_S-UB_m21A",
         "ref": "348",
-        "source:position": "Mapillary 2020-01-18",
-        "survey:date": "2020-04-04"
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -4391,7 +4440,10 @@
         "@id": "node/5917977240",
         "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "549502062726628",
+        "source:position": "Mapillary 2021-06-11",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -4466,7 +4518,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "503878560752939",
-        "source:position": "Mapillary 2020-03-07"
+        "source:position": "Mapillary 2021-06-11",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -4626,7 +4679,9 @@
         "@id": "node/5918113178",
         "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4320052098031482",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -4684,8 +4739,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "234372908194988",
-        "source:position": "Mapillary 2020-09-05",
-        "survey:date": "2021-01-22"
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-09-04"
       },
       "geometry": {
         "type": "Point",
@@ -4705,8 +4760,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "88_yMO3MfcrhHB13eQViug",
         "ref": "289",
-        "source:position": "Mapillary 2020-04-22",
-        "survey:date": "2021-01-22"
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-09-04"
       },
       "geometry": {
         "type": "Point",
@@ -4894,7 +4949,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "ILQ3cFoDqbIllQG2jRMA4g",
-        "ref": "56"
+        "ref": "56",
+        "source:position": "Mapillary 2019-02-02",
+        "survey:date": "2020-05-13"
       },
       "geometry": {
         "type": "Point",
@@ -5050,9 +5107,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5919963447",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "4"
+        "mapillary": "409080807257652",
+        "ref": "4",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5104,9 +5164,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5925794064",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "21"
+        "mapillary": "219592466778488",
+        "ref": "21",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5121,9 +5184,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5925794065",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "12"
+        "mapillary": "303946464512676",
+        "ref": "12",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5138,9 +5204,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926447589",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "5"
+        "mapillary": "401768084933910",
+        "ref": "5",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5155,9 +5224,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926447590",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "3"
+        "mapillary": "600104148090449",
+        "ref": "3",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5172,9 +5244,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926447591",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "2"
+        "mapillary": "404227294631944",
+        "ref": "2",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5189,9 +5264,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926447595",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "24"
+        "mapillary": "413155116856094",
+        "ref": "24",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5206,9 +5284,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926457678",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "29"
+        "mapillary": "382987890159127",
+        "ref": "29",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5223,9 +5304,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926457679",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "36"
+        "mapillary": "234826315292081",
+        "ref": "36",
+        "water_source": "pond"
       },
       "geometry": {
         "type": "Point",
@@ -5240,9 +5324,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926457680",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "30"
+        "mapillary": "1212095319312531",
+        "ref": "30",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5257,9 +5344,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5926457681",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "31"
+        "mapillary": "398286831944270",
+        "ref": "31",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -5840,7 +5930,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "6007828855924367"
+        "mapillary": "6007828855924367",
+        "source:position": "Mapillary 2019-12-16",
+        "survey:date": "2021-07-03"
       },
       "geometry": {
         "type": "Point",
@@ -5932,7 +6024,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "2882088875442756",
         "ref": "43",
-        "source:position": "Mapillary 2019-02-02"
+        "source:position": "Mapillary 2018-07-06",
+        "survey:date": "2021-06-14"
       },
       "geometry": {
         "type": "Point",
@@ -6020,7 +6113,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "c1SeLOR36Yk1Q1kjc-rSSg",
-        "survey:date": "2018-08-26"
+        "source:position": "Mapillary 2021-07-03",
+        "survey:date": "2021-07-03"
       },
       "geometry": {
         "type": "Point",
@@ -6107,7 +6201,10 @@
       "properties": {
         "@id": "node/6177134292",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "309452807494219",
+        "source:position": "Mapillary 2020-03-15",
+        "survey:date": "2020-03-15"
       },
       "geometry": {
         "type": "Point",
@@ -6218,7 +6315,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "1097681850720438",
         "ref": "5",
-        "source:position": "Mapillary 2020-10-16"
+        "source:position": "Mapillary 2019-01-26",
+        "survey:date": "2021-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -6347,7 +6445,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "C5qqwjFZs_V7RgUcrTviyw",
-        "survey:date": "2017-04-03"
+        "source:position": "Mapillary 2021-06-26",
+        "survey:date": "2021-06-26"
       },
       "geometry": {
         "type": "Point",
@@ -6429,6 +6528,24 @@
         ]
       },
       "id": "node/6225923134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6228930996",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "912431039632040",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0182477,
+          47.9563928
+        ]
+      },
+      "id": "node/6228930996"
     },
     {
       "type": "Feature",
@@ -7024,6 +7141,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6252206699",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "115184250686455",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9172559,
+          47.9177698
+        ]
+      },
+      "id": "node/6252206699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6252226582",
         "colour": "red",
         "emergency": "fire_hydrant",
@@ -7502,7 +7638,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "CVWlkIuTqpU2cMcM8mguVI",
-        "source:position": "Mapillary 2020-10-16",
+        "source:position": "Mapillary 2019-01-26",
         "survey:date": "2020-11-09",
         "water_source": "main"
       },
@@ -7868,6 +8004,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6268285575",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.041127,
+          47.9169105
+        ]
+      },
+      "id": "node/6268285575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6268337585",
         "colour": "red",
         "emergency": "fire_hydrant",
@@ -8174,7 +8328,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "LdAvqMTaMHJO-dAx-urCeQ",
-        "survey:date": "2018-07-06",
+        "source:position": "Mapillary 2018-07-06",
+        "survey:date": "2020-01-11",
         "water_source": "main"
       },
       "geometry": {
@@ -8209,8 +8364,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6276371581",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "124831783248597",
         "ref": "11",
         "water_source": "main"
       },
@@ -8365,7 +8522,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "3QTv2H6hAxKrcFmJjRfYQA",
-        "survey:date": "2017-04-26",
+        "source:position": "Mapillary 2019-02-16",
+        "survey:date": "2021-07-08",
         "water_source": "main"
       },
       "geometry": {
@@ -8384,7 +8542,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "5oUsIdE5Txmi9pwRVL78_g",
-        "survey:date": "2019-02-16",
+        "source:position": "Mapillary 2016-12-16",
+        "survey:date": "2019-10-13",
         "water_source": "main"
       },
       "geometry": {
@@ -8669,6 +8828,9 @@
         "@id": "node/6284596652",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "925007678227519",
+        "source:position": "Mapillary 2019-02-17",
+        "survey:date": "2021-09-11",
         "water_source": "main"
       },
       "geometry": {
@@ -8684,12 +8846,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6287934427",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "YcsjRECf1Xfu5-oxtGuwSA",
+        "mapillary": "601732394195930",
         "ref": "15",
         "source:position": "Mapillary 2020-05-07",
-        "survey:date": "2020-05-07",
         "water_source": "main"
       },
       "geometry": {
@@ -8726,8 +8888,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6293077221",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "566927091044923",
         "ref": "10",
         "water_source": "main"
       },
@@ -8744,15 +8908,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6293077222",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "298002525195958",
         "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.936066,
-          47.9563694
+          1.9360861,
+          47.9564017
         ]
       },
       "id": "node/6293077222"
@@ -8761,8 +8927,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6293081263",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "385449406585812",
         "ref": "14",
         "water_source": "main"
       },
@@ -8781,6 +8949,9 @@
         "@id": "node/6298707485",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "554340542603833",
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-06-13",
         "water_source": "main"
       },
       "geometry": {
@@ -8850,6 +9021,25 @@
         ]
       },
       "id": "node/6300796869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302865644",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "977269063126525",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8858636,
+          47.8993037
+        ]
+      },
+      "id": "node/6302865644"
     },
     {
       "type": "Feature",
@@ -8956,8 +9146,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "300868974778522",
         "ref": "177",
-        "source:position": "Mapillary 2019-03-16",
-        "survey:date": "2020-05-04"
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-06-13"
       },
       "geometry": {
         "type": "Point",
@@ -8995,8 +9185,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "cT8KsVVZ958Mcbk5tv0lWr",
         "ref": "20",
-        "source:position": "Mapillary 2020-08-24",
-        "survey:date": "2020-12-24"
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-06-19"
       },
       "geometry": {
         "type": "Point",
@@ -9015,8 +9205,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "8sV1n-EhY8tT_1mqZhgyRQ",
         "ref": "46",
-        "source:position": "Mapillary 2020-01-18",
-        "survey:date": "2019-01-27"
+        "source:position": "Mapillary 2019-01-27",
+        "survey:date": "2021-06-11"
       },
       "geometry": {
         "type": "Point",
@@ -9288,7 +9478,10 @@
         "@id": "node/6347630488",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "24"
+        "mapillary": "1223197064791539",
+        "ref": "24",
+        "source:position": "Mapillary 2021-06-24",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -9308,7 +9501,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "pyvcXoNpScDd9sJTkr1YLQ",
         "ref": "247",
-        "source:position": "Mapillary 2020-09-11",
+        "source:position": "Mapillary 2019-02-02",
         "survey:date": "2019-02-02"
       },
       "geometry": {
@@ -9385,8 +9578,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "4pey7eUw6MNzO7Aca1geKT",
         "ref": "26",
-        "source:position": "Mapillary 2021-01-22",
-        "survey:date": "2021-01-22"
+        "source:position": "Mapillary 2021-06-24",
+        "survey:date": "2021-06-24"
       },
       "geometry": {
         "type": "Point",
@@ -9475,9 +9668,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6352117185",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "25"
+        "mapillary": "463747194917377",
+        "ref": "25",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -9628,8 +9824,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6353731912",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "305845590933706",
         "ref": "16",
         "water_source": "main"
       },
@@ -9650,8 +9848,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "E03R74fFd7wOpU02CPHNrr",
         "ref": "191",
-        "source:position": "Mapillary 2020-10-16",
-        "survey:date": "2020-10-16"
+        "source:position": "Mapillary 2017-04-15",
+        "survey:date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -9857,7 +10055,10 @@
       "properties": {
         "@id": "node/6356054785",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1004701240271040",
+        "source:position": "Mapillary 2021-08-21",
+        "survey:date": "2021-06-19"
       },
       "geometry": {
         "type": "Point",
@@ -9970,7 +10171,10 @@
       "properties": {
         "@id": "node/6356083691",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4252731094764379",
+        "source:position": "Mapillary 2021-08-13",
+        "survey:date": "2021-08-13"
       },
       "geometry": {
         "type": "Point",
@@ -10240,8 +10444,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6370499385",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "2700932903542753",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -10292,7 +10499,10 @@
       "properties": {
         "@id": "node/6371743485",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "963554517520412",
+        "source:position": "Mapillary 2021-07-03",
+        "survey:date": "2021-07-06"
       },
       "geometry": {
         "type": "Point",
@@ -10846,7 +11056,10 @@
         "@id": "node/6371849586",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "408"
+        "mapillary": "197503768947328",
+        "ref": "408",
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -10883,7 +11096,10 @@
         "@id": "node/6371873986",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "436"
+        "mapillary": "583138229510585",
+        "ref": "436",
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -11002,7 +11218,10 @@
         "@id": "node/6371914185",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "373"
+        "mapillary": "900858373841544",
+        "ref": "373",
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -11358,8 +11577,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "z5hB4dqMVefetYqCKZ7YR0",
         "ref": "198",
-        "source:position": "Mapillary 2019-11-17",
-        "survey:date": "2020-12-26"
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
       },
       "geometry": {
         "type": "Point",
@@ -11376,7 +11595,10 @@
         "@id": "node/6372029085",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "359"
+        "mapillary": "214650757042409",
+        "ref": "359",
+        "source:position": "Mapillary 2021-06-18",
+        "survey:date": "2021-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -11499,8 +11721,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6373475085",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "201035998544911",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -11514,25 +11739,12 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6373476085",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9172804,
-          47.9177904
-        ]
-      },
-      "id": "node/6373476085"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6373479691",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "558068068745331",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
       },
       "geometry": {
         "type": "Point",
@@ -11682,7 +11894,10 @@
       "properties": {
         "@id": "node/6373521385",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "192026412844082",
+        "source:position": "Mapillary 2021-06-21",
+        "survey:date": "2021-06-21"
       },
       "geometry": {
         "type": "Point",
@@ -12121,8 +12336,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "mJb4yMwaGC_REJyUXXSaIg",
-        "source:position": "Mapillary 2020-07-25",
-        "survey:date": "2020-04-04"
+        "source:position": "Mapillary 2021-09-25",
+        "survey:date": "2021-09-25"
       },
       "geometry": {
         "type": "Point",
@@ -13014,7 +13229,10 @@
         "@id": "node/6387333693",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "184"
+        "mapillary": "2871524399825516",
+        "ref": "184",
+        "source:position": "Mapillary 2021-07-08",
+        "survey:date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -13050,7 +13268,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "1087740071752825",
-        "source:position": "Mapillary 2019-10-13"
+        "source:position": "Mapillary 2017-03-14",
+        "survey:date": "2019-10-13"
       },
       "geometry": {
         "type": "Point",
@@ -13307,7 +13526,10 @@
       "properties": {
         "@id": "node/6387399290",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "3009571809322703",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-08-25"
       },
       "geometry": {
         "type": "Point",
@@ -13686,8 +13908,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6415621385",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "514986016369320",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -13701,41 +13926,12 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6415621386",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9294486,
-          47.8318424
-        ]
-      },
-      "id": "node/6415621386"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6415624185",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9314524,
-          47.8352325
-        ]
-      },
-      "id": "node/6415624185"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6415625085",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "228421975934958",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -13750,8 +13946,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6415625086",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "2694054024236356",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
@@ -13798,14 +13997,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6415647489",
+        "colour": "red",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9293154,
-          47.8334675
+          1.9294319,
+          47.8334358
         ]
       },
       "id": "node/6415647489"
@@ -13912,7 +14113,10 @@
       "properties": {
         "@id": "node/6415676385",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "906870640163974",
+        "source:position": "Mapillary 2021-06-26",
+        "survey:date": "2019-02-09"
       },
       "geometry": {
         "type": "Point",
@@ -14011,7 +14215,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "152663273486540",
-        "source:position": "Mapillary 2018-07-07"
+        "source:position": "Mapillary 2018-07-07",
+        "survey:date": "2019-07-19"
       },
       "geometry": {
         "type": "Point",
@@ -14358,7 +14563,10 @@
         "@id": "node/6417364988",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "193"
+        "mapillary": "236714475045504",
+        "ref": "193",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -14732,8 +14940,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "qF9lmFXRHmPCbqlJkyZoS1",
-        "source:position": "Mapillary 2019-12-20",
-        "survey:date": "2020-09-05"
+        "source:position": "Mapillary 2019-10-11",
+        "survey:date": "2021-09-25"
       },
       "geometry": {
         "type": "Point",
@@ -14768,7 +14976,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "YzfLPPQm8QII5oQVrBVlAA",
         "source:position": "Mapillary 2019-01-27",
-        "survey:date": "2020-01-18"
+        "survey:date": "2021-06-13"
       },
       "geometry": {
         "type": "Point",
@@ -14808,7 +15016,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "825885381654178",
-        "ref": "193"
+        "ref": "193",
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-06-13"
       },
       "geometry": {
         "type": "Point",
@@ -14841,7 +15051,10 @@
       "properties": {
         "@id": "node/6440590985",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "fire_hydrant:type": "pillar",
+        "mapillary": "528885091679400",
+        "source:position": "Mapillary 2021-08-21",
+        "survey:date": "2021-08-21"
       },
       "geometry": {
         "type": "Point",
@@ -14858,7 +15071,10 @@
         "@id": "node/6440607786",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "160"
+        "mapillary": "325714769170010",
+        "ref": "160",
+        "source:position": "Mapillary 2019-10-13",
+        "survey:date": "2021-06-28"
       },
       "geometry": {
         "type": "Point",
@@ -15077,7 +15293,10 @@
         "@id": "node/6440692985",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "56"
+        "mapillary": "4685672978144408",
+        "ref": "56",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-07-05"
       },
       "geometry": {
         "type": "Point",
@@ -15473,7 +15692,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "OPBVa3cfFbszP6C_k_HAIw",
-        "ref": "169"
+        "ref": "169",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -15584,38 +15805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6449096486",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8811031,
-          47.8570987
-        ]
-      },
-      "id": "node/6449096486"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6449096487",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8818877,
-          47.8554257
-        ]
-      },
-      "id": "node/6449096487"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6449108285",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar"
@@ -15655,7 +15844,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "311097260637161",
-        "source:position": "Mapillary 2020-07-25"
+        "source:position": "Mapillary 2021-06-18",
+        "survey:date": "2021-09-24"
       },
       "geometry": {
         "type": "Point",
@@ -15724,7 +15914,9 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "iVB8YCsEUCEgiHPvo9kNvA",
-        "ref": "782"
+        "ref": "782",
+        "source:position": "Mapillary 2021-07-05",
+        "survey:date": "2021-09-25"
       },
       "geometry": {
         "type": "Point",
@@ -15797,6 +15989,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "176515694347368",
         "ref": "96",
         "source": "survey"
       },
@@ -15927,7 +16120,10 @@
         "@id": "node/6762379915",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "ref": "NC"
+        "mapillary": "246509784035275",
+        "ref": "NC",
+        "source:position": "Mapillary 2021-09-11",
+        "survey:date": "2021-09-11"
       },
       "geometry": {
         "type": "Point",
@@ -15970,8 +16166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8957424,
-          47.9094841
+          1.8958349,
+          47.9094967
         ]
       },
       "id": "node/6834696546"
@@ -16070,7 +16266,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "8JmpySm6N-9TcvlQNiiIdA",
+        "mapillary": "196451798870097",
+        "source:position": "Mapillary 2020-05-22",
+        "survey:date": "2020-05-22",
         "water_source": "main"
       },
       "geometry": {
@@ -16321,8 +16519,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "LWrjYelKoIjpJ7KT67aSqF",
-        "source:position": "Mapillary 2020-07-22",
-        "survey:date": "2020-12-26",
+        "source:position": "Mapillary 2021-07-06",
+        "survey:date": "2021-07-06",
         "water_source": "main"
       },
       "geometry": {
@@ -16475,6 +16673,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "485740702747603",
+        "source:position": "Mapillary 2019-12-14",
+        "survey:date": "2019-12-14",
         "water_source": "main"
       },
       "geometry": {
@@ -16553,6 +16754,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "1456171978062568",
+        "source:position": "Mapillary 2019-12-14",
+        "survey:date": "2021-07-06",
         "water_source": "main"
       },
       "geometry": {
@@ -16629,7 +16833,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "309797117384608",
-        "source:position": "Mapillary 2018-07-07",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18",
         "water_source": "main"
       },
       "geometry": {
@@ -16859,6 +17064,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "210045874266439",
+        "source:position": "Mapillary 2017-01-22",
+        "survey:date": "2020-05-15",
         "water_source": "main"
       },
       "geometry": {
@@ -17082,6 +17290,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "379553563383971",
+        "source:position": "Mapillary 2021-07-07",
+        "survey:date": "2019-12-21",
         "water_source": "main"
       },
       "geometry": {
@@ -17293,6 +17504,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "397834124930709",
+        "source:position": "Mapillary 2021-06-26",
+        "survey:date": "2021-06-26",
         "water_source": "main"
       },
       "geometry": {
@@ -18083,6 +18297,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "aZ3LS9yiHVvkhBdTpGNjyw",
         "ref": "421",
+        "source:position": "Mapillary 2021-09-04",
+        "survey:date": "2021-06-11",
         "water_source": "main"
       },
       "geometry": {
@@ -18101,7 +18317,10 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "582629575990700",
         "ref": "242",
+        "source:position": "Mapillary 2020-04-04",
+        "survey:date": "2020-08-21",
         "water_source": "main"
       },
       "geometry": {
@@ -18122,8 +18341,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "NDncxnnvE7aYW1ZW5NOOhw",
         "ref": "244",
-        "source:position": "Mapillary 2020-05-09",
-        "survey:date": "2020-05-09",
+        "source:position": "Mapillary 2021-09-04",
+        "survey:date": "2021-09-04",
         "water_source": "main"
       },
       "geometry": {
@@ -18144,7 +18363,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "9TuXndqQK11tYCz0muL1Pg",
         "ref": "243",
-        "source:position": "Mapillary 2020-05-09",
+        "source:position": "Mapillary 2021-09-04",
         "survey:date": "2020-05-09",
         "water_source": "main"
       },
@@ -18387,6 +18606,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "C6GMVqZH0V-snWdWahsUKA",
         "ref": "152",
+        "source:position": "Mapillary 2021-09-18",
         "water_source": "main"
       },
       "geometry": {
@@ -18624,7 +18844,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "WDyHJKGcdrh3yU8Bv8ROIg",
-        "source:position": "Mapillary 2020-09-11",
+        "source:position": "Mapillary 2021-07-03",
         "survey:date": "2020-09-05",
         "water_source": "main"
       },
@@ -18933,6 +19153,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "311657200548116",
+        "source:position": "Mapillary 2021-06-14",
+        "survey:date": "2021-06-14",
         "water_source": "main"
       },
       "geometry": {
@@ -19115,8 +19338,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "0rWU_ebZXZHV-rDnvXjIxA",
         "ref": "31",
-        "source:position": "Mapillary 2020-05-13",
-        "survey:date": "2020-05-13",
+        "source:position": "Mapillary 2021-06-14",
+        "survey:date": "2021-06-14",
         "water_source": "main"
       },
       "geometry": {
@@ -19137,7 +19360,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "F8uNiiiR9f50JbtoKoOfMQ",
         "ref": "48",
-        "source:position": "Mapillary 2020-05-13",
+        "source:position": "Mapillary 2019-02-02",
         "survey:date": "2020-05-13",
         "water_source": "main"
       },
@@ -19275,6 +19498,7 @@
         "mapillary": "504283590609712",
         "ref": "8",
         "source:position": "Mapillary 2020-05-22",
+        "survey:date": "2020-05-22",
         "water_source": "main"
       },
       "geometry": {
@@ -19367,7 +19591,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "cbidafgrdzet0xkhvxr1ye",
-        "source:position": "Mapillary 2020-05-24",
+        "source:position": "Mapillary 2020-05-20",
         "survey:date": "2020-05-24",
         "water_source": "main"
       },
@@ -19558,7 +19782,10 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "939577170123938",
         "ref": "17",
+        "source:position": "Mapillary 2020-05-22",
+        "survey:date": "2020-05-22",
         "water_source": "main"
       },
       "geometry": {
@@ -19658,6 +19885,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "ZssJJ_l4qCZh9q3cnqdogA",
         "ref": "16",
+        "source:position": "Mapillary 2020-05-22",
+        "survey:date": "2020-05-22",
         "water_source": "main"
       },
       "geometry": {
@@ -19676,6 +19905,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "527839111717685",
         "ref": "12",
         "water_source": "main"
       },
@@ -19775,7 +20005,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "sb_76hEHmbJbKe2kQ4PRBw",
-        "source:position": "Mapillary 2020-05-22",
+        "source:position": "Mapillary 2019-12-23",
         "survey:date": "2020-05-22",
         "water_source": "main"
       },
@@ -20051,6 +20281,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "cCZbrjJ0gk9NUxxeQybjiA",
         "ref": "401",
+        "source:position": "Mapillary 2019-12-16",
+        "survey:date": "2020-05-24",
         "water_source": "main"
       },
       "geometry": {
@@ -21123,8 +21355,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "1S5Wl-JTeVgS726Oa3Lvjw",
         "source": "Mapillary Street Objects",
-        "source:position": "Mapillary 2019-02-02",
-        "survey:date": "2019-02-02"
+        "source:position": "Mapillary 2021-06-11",
+        "survey:date": "2021-06-11"
       },
       "geometry": {
         "type": "Point",
@@ -21337,6 +21569,9 @@
         "couplings": "3",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "248439080479896",
+        "source:position": "Mapillary 2021-08-21",
+        "survey:date": "2021-08-21",
         "water_source": "main"
       },
       "geometry": {
@@ -21374,7 +21609,10 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "134515688789327",
         "ref": "18",
+        "source:position": "Mapillary 2021-06-16",
+        "survey:date": "2021-07-05",
         "water_source": "main"
       },
       "geometry": {
@@ -21834,6 +22072,7 @@
         "mapillary": "13gVvB9NE1RdVfpDFlAf-w",
         "ref": "13",
         "source": "Mapillary Street Objects",
+        "source:position": "Mapillary 2020-01-18",
         "survey:date": "2020-10-02"
       },
       "geometry": {
@@ -21980,7 +22219,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "TNFYWPXHtc9fmdyd2avLaA",
-        "source:position": "Mapillary 2020-07-22",
+        "source:position": "Mapillary 2020-03-15",
         "survey:date": "2020-12-26"
       },
       "geometry": {
@@ -22000,7 +22239,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "ppSZkO5ciUGdxPCKoQZ2HA",
         "source:position": "Mapillary 2018-07-06",
-        "survey:date": "2018-07-06"
+        "survey:date": "2021-09-18"
       },
       "geometry": {
         "type": "Point",
@@ -22110,17 +22349,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8872401418",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "YA0ykvjF4XirX_nV33ujsQ",
+        "mapillary": "278285393962625",
         "source:position": "Mapillary 2018-07-07",
-        "survey:date": "2018-07-07"
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9747028,
-          47.8262527
+          1.974731,
+          47.8262869
         ]
       },
       "id": "node/8872401418"
@@ -22316,25 +22556,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8894158320",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar",
-        "mapillary": "6JAUzAt3SZy3929picM4_A",
-        "source:position": "Mapillary 2018-07-06",
-        "survey:date": "2018-07-06"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9667657,
-          47.9693126
-        ]
-      },
-      "id": "node/8894158320"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8894158419",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
@@ -22394,13 +22615,14 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "542044097078246",
         "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9667838,
-          47.9693011
+          1.9667711,
+          47.969302
         ]
       },
       "id": "node/8894193752"
@@ -22430,8 +22652,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "aysg0-Rs37bBUAi_Czt-9Q",
-        "source:position": "Mapillary 2020-03-15",
-        "survey:date": "2019-11-24"
+        "source:position": "Mapillary 2021-07-03",
+        "survey:date": "2021-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -22460,24 +22682,6 @@
         ]
       },
       "id": "node/8894194519"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8894206751",
-        "colour": "red",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar",
-        "water_source": "main"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8887582,
-          47.9194986
-        ]
-      },
-      "id": "node/8894206751"
     },
     {
       "type": "Feature",
@@ -22539,17 +22743,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8894217717",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "jRuONB7t4AcmqPUh16GWZg",
+        "mapillary": "200643641774385",
         "source:position": "Mapillary 2019-10-13",
-        "survey:date": "2019-10-13"
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.888862,
-          47.9194507
+          1.8888355,
+          47.9194572
         ]
       },
       "id": "node/8894217717"
@@ -22598,8 +22803,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "qMOZM1urvXBF7HQdy4jSEv",
-        "source:position": "Mapillary 2019-12-07",
-        "survey:date": "2020-12-26"
+        "source:position": "Mapillary 2021-07-03",
+        "survey:date": "2021-07-03"
       },
       "geometry": {
         "type": "Point",
@@ -22766,6 +22971,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "353806256083326",
         "water_source": "main"
       },
       "geometry": {
@@ -22776,25 +22982,6 @@
         ]
       },
       "id": "node/8894276867"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8894283117",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar",
-        "mapillary": "8XKasNrPZe7SfENskkafdg",
-        "source:position": "Mapillary 2019-12-23",
-        "survey:date": "2020-05-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9039849,
-          47.8894941
-        ]
-      },
-      "id": "node/8894283117"
     },
     {
       "type": "Feature",
@@ -23045,7 +23232,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "POO0ddbwQbuRoDtEWqvl3S",
-        "source:position": "Mapillary 2021-01-22",
+        "source:position": "Mapillary 2019-01-25",
         "survey:date": "2021-01-22"
       },
       "geometry": {
@@ -23065,7 +23252,7 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "Sx2v6WNFGeFUlSwTeJ4eFL",
         "source:position": "Mapillary 2020-11-28",
-        "survey:date": "2020-11-28"
+        "survey:date": "2021-09-03"
       },
       "geometry": {
         "type": "Point",
@@ -23085,6 +23272,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "740018166643681",
         "ref": "178",
+        "source:position": "Mapillary 2019-02-24",
+        "survey:date": "2021-09-11",
         "water_source": "main"
       },
       "geometry": {
@@ -23158,6 +23347,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "227962055766700",
+        "source:position": "Mapillary 2020-04-21",
+        "survey:date": "2021-08-14",
         "water_source": "main"
       },
       "geometry": {
@@ -23357,6 +23548,8 @@
         "fire_hydrant:type": "pillar",
         "mapillary": "906212773493305",
         "ref": "256",
+        "source:position": "Mapillary 2020-12-26",
+        "survey:date": "2021-06-17",
         "water_source": "main"
       },
       "geometry": {
@@ -23376,6 +23569,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "499072051537585",
+        "source:position": "Mapillary 2020-03-07",
+        "survey:date": "2020-03-07",
         "water_source": "main"
       },
       "geometry": {
@@ -23429,6 +23624,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "170728808206309",
+        "source:position": "Mapillary 2019-12-16",
+        "survey:date": "2020-03-15",
         "water_source": "main"
       },
       "geometry": {
@@ -23981,6 +24178,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "4144768288880024",
+        "source:position": "Mapillary 2020-09-18",
+        "survey:date": "2021-08-16",
         "water_source": "main"
       },
       "geometry": {
@@ -24057,6 +24256,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "543934670251825",
+        "source:position": "Mapillary 2019-02-24",
+        "survey:date": "2021-09-25",
         "water_source": "main"
       },
       "geometry": {
@@ -24227,7 +24428,7 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "pjQyLZHmkOaBx26WTNS5Og",
-        "source:position": "Mapillary 2020-05-27",
+        "source:position": "Mapillary 2017-03-18",
         "survey:date": "2019-02-24"
       },
       "geometry": {
@@ -24303,8 +24504,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "jx030y4Z6ND0s1025xfu5x",
-        "source:position": "Mapillary 2020-10-16",
-        "survey:date": "2020-11-09"
+        "source:position": "Mapillary 2021-07-08",
+        "survey:date": "2021-07-08"
       },
       "geometry": {
         "type": "Point",
@@ -24493,6 +24694,9 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "348879563479534",
+        "source:position": "Mapillary 2021-06-28",
+        "survey:date": "2021-07-08",
         "water_source": "main"
       },
       "geometry": {
@@ -25093,6 +25297,8 @@
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
         "mapillary": "381682766793737",
+        "source:position": "Mapillary 2021-08-30",
+        "survey:date": "2021-08-30",
         "water_source": "main"
       },
       "geometry": {
@@ -25103,6 +25309,2609 @@
         ]
       },
       "id": "node/9050807302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053979017",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "884475928821967",
+        "source:position": "Mapillary 2021-06-25",
+        "survey:date": "2021-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8952732,
+          47.9108377
+        ]
+      },
+      "id": "node/9053979017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053979221",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1020625002084646",
+        "source:position": "Mapillary 2019-02-17",
+        "survey:date": "2021-08-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8980541,
+          47.9189912
+        ]
+      },
+      "id": "node/9053979221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053979820",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "335020321524356",
+        "source:position": "Mapillary 2021-07-06",
+        "survey:date": "2021-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0139181,
+          47.9100946
+        ]
+      },
+      "id": "node/9053979820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053986017",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "831313931132738",
+        "source:position": "Mapillary 2020-01-18",
+        "survey:date": "2020-01-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9034086,
+          47.9396202
+        ]
+      },
+      "id": "node/9053986017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053994926",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "957437458157350",
+        "source:position": "Mapillary 2021-07-06",
+        "survey:date": "2021-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0140977,
+          47.903612
+        ]
+      },
+      "id": "node/9053994926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053994927",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "128742469367152",
+        "source:position": "Mapillary 2021-06-25",
+        "survey:date": "2021-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8825619,
+          47.8992301
+        ]
+      },
+      "id": "node/9053994927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053995022",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "551220362568273",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8852188,
+          47.9638407
+        ]
+      },
+      "id": "node/9053995022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9054005517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "306154224387138",
+        "source:position": "Mapillary 2019-12-16",
+        "survey:date": "2019-12-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9438589,
+          47.9168506
+        ]
+      },
+      "id": "node/9054005517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9105241682",
+        "colour": "yellow",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "102653348810858",
+        "ref": "PI N°10",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0220486,
+          47.9462226
+        ]
+      },
+      "id": "node/9105241682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9105260987",
+        "colour": "yellow",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "217344970452933",
+        "ref": "PI N°14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0187981,
+          47.9460614
+        ]
+      },
+      "id": "node/9105260987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9105283877",
+        "colour": "yellow",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "ref": "PI N°13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0202516,
+          47.9455608
+        ]
+      },
+      "id": "node/9105283877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135783917",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1490956351271638",
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9994237,
+          47.92166
+        ]
+      },
+      "id": "node/9135783917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135785317",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "270692421539722",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9681337,
+          47.8681027
+        ]
+      },
+      "id": "node/9135785317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135785517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1363884547327946",
+        "source:position": "Mapillary 2021-07-08",
+        "survey:date": "2021-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8901343,
+          47.9511042
+        ]
+      },
+      "id": "node/9135785517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135797717",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "source:position": "Mapillary 2021-06-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8938644,
+          47.9221534
+        ]
+      },
+      "id": "node/9135797717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135797718",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "993301344820606",
+        "source:position": "Mapillary 2021-06-18",
+        "survey:date": "2021-06-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9457827,
+          47.9162451
+        ]
+      },
+      "id": "node/9135797718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135797719",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "938180916736093",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9634781,
+          47.8922698
+        ]
+      },
+      "id": "node/9135797719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135800717",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "557917722111290",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9668868,
+          47.8871566
+        ]
+      },
+      "id": "node/9135800717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135801118",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "947944845991961",
+        "source:position": "Mapillary 2021-06-25",
+        "survey:date": "2021-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8725771,
+          47.9035363
+        ]
+      },
+      "id": "node/9135801118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135806718",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "554491042433701",
+        "source:position": "Mapillary 2021-08-30",
+        "survey:date": "2021-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9185276,
+          47.882312
+        ]
+      },
+      "id": "node/9135806718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135811517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "source:position": "Mapillary 2020-03-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9816378,
+          47.9070769
+        ]
+      },
+      "id": "node/9135811517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135811518",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "390006272454747",
+        "source:position": "Mapillary 2021-06-25",
+        "survey:date": "2021-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8750421,
+          47.9069078
+        ]
+      },
+      "id": "node/9135811518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135827417",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "898438180763157",
+        "source:position": "Mapillary 2021-08-21",
+        "survey:date": "2021-08-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8932994,
+          47.9244494
+        ]
+      },
+      "id": "node/9135827417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135827418",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "335311254744612",
+        "source:position": "Mapillary 2017-04-19",
+        "survey:date": "2021-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8467787,
+          47.9560412
+        ]
+      },
+      "id": "node/9135827418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135829217",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "349691763213336",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8936992,
+          47.9432621
+        ]
+      },
+      "id": "node/9135829217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9135830717",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1540274209671159",
+        "source:position": "Mapillary 2017-05-05",
+        "survey:date": "2021-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.845007,
+          47.9447132
+        ]
+      },
+      "id": "node/9135830717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136803612",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "257238362833242",
+        "source:position": "Mapillary 2021-06-20",
+        "survey:date": "2021-06-20",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8903062,
+          47.8919772
+        ]
+      },
+      "id": "node/9136803612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136824073",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4322130597820873",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8740809,
+          47.8834194
+        ]
+      },
+      "id": "node/9136824073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136830997",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4453891757956463",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8923872,
+          47.892232
+        ]
+      },
+      "id": "node/9136830997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136836392",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "395546688446480",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8884348,
+          47.8903592
+        ]
+      },
+      "id": "node/9136836392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136838512",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "218950963060550",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8709745,
+          47.8896981
+        ]
+      },
+      "id": "node/9136838512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136852148",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "959690014816578",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8889757,
+          47.8929325
+        ]
+      },
+      "id": "node/9136852148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136852485",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "864865454110485",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8936456,
+          47.8888373
+        ]
+      },
+      "id": "node/9136852485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136854069",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "218212149826916",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8917902,
+          47.8847045
+        ]
+      },
+      "id": "node/9136854069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136855603",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "200002602116169",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8384845,
+          47.8667139
+        ]
+      },
+      "id": "node/9136855603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136877228",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "812372396348478",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8965015,
+          47.8888787
+        ]
+      },
+      "id": "node/9136877228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136896844",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "498631308096772",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.851424,
+          47.879139
+        ]
+      },
+      "id": "node/9136896844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136898183",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "386695319044204",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8303181,
+          47.8617955
+        ]
+      },
+      "id": "node/9136898183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136912931",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "284651579983183",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8463926,
+          47.86188
+        ]
+      },
+      "id": "node/9136912931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136931064",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "912334259372445",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8588667,
+          47.8684482
+        ]
+      },
+      "id": "node/9136931064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136936590",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1021862481969189",
+        "source:position": "Mapillary 2021-09-24",
+        "survey:date": "2021-09-24",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8649766,
+          47.8667552
+        ]
+      },
+      "id": "node/9136936590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136949327",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1151188268744047",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8971171,
+          47.8590507
+        ]
+      },
+      "id": "node/9136949327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136949528",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1143766156151238",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8696202,
+          47.8619381
+        ]
+      },
+      "id": "node/9136949528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136956586",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "841782270034581",
+        "source:position": "Mapillary 2021-09-24",
+        "survey:date": "2021-09-24",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8761776,
+          47.8645618
+        ]
+      },
+      "id": "node/9136956586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136979275",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "933176287623072",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8986775,
+          47.861075
+        ]
+      },
+      "id": "node/9136979275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136994545",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "204900335041303",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8962742,
+          47.861015
+        ]
+      },
+      "id": "node/9136994545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137003065",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "574432413749672",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8983501,
+          47.8621137
+        ]
+      },
+      "id": "node/9137003065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137008781",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "594110374946072",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8974517,
+          47.8628864
+        ]
+      },
+      "id": "node/9137008781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137022223",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "763333267715634",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9440569,
+          47.8411213
+        ]
+      },
+      "id": "node/9137022223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137024319",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "660466082010390",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8969055,
+          47.8645341
+        ]
+      },
+      "id": "node/9137024319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137028587",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "847807519256990",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8963782,
+          47.8636606
+        ]
+      },
+      "id": "node/9137028587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137033765",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "172603738104208",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9819462,
+          47.822663
+        ]
+      },
+      "id": "node/9137033765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137041229",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "559011765085904",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9448845,
+          47.8422155
+        ]
+      },
+      "id": "node/9137041229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137052823",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "2934407500161053",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9247183,
+          47.8153949
+        ]
+      },
+      "id": "node/9137052823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137063263",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "319900666173950",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9735031,
+          47.826878
+        ]
+      },
+      "id": "node/9137063263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137070630",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "162111059184656",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9237692,
+          47.8157738
+        ]
+      },
+      "id": "node/9137070630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137070927",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "863323564335217",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9209202,
+          47.8325332
+        ]
+      },
+      "id": "node/9137070927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137092849",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "5665059540232434",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9048775,
+          47.8757373
+        ]
+      },
+      "id": "node/9137092849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137092994",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "204223244917940",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9253845,
+          47.8407865
+        ]
+      },
+      "id": "node/9137092994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137110939",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1014553912647425",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90411,
+          47.8757802
+        ]
+      },
+      "id": "node/9137110939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137147480",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "229230522131078",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.897411,
+          47.8943438
+        ]
+      },
+      "id": "node/9137147480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137164754",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1637635466433962",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9037922,
+          47.8913921
+        ]
+      },
+      "id": "node/9137164754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137183001",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1423766551290880",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8900374,
+          47.8980228
+        ]
+      },
+      "id": "node/9137183001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137199917",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "494934028617147",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8764221,
+          47.9031882
+        ]
+      },
+      "id": "node/9137199917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137201024",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1273220296462163",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.885157,
+          47.9112811
+        ]
+      },
+      "id": "node/9137201024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137201041",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "348541790013730",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8973624,
+          47.9152354
+        ]
+      },
+      "id": "node/9137201041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137204535",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "352105026348032",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.892438,
+          47.9169081
+        ]
+      },
+      "id": "node/9137204535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137211115",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "329091628781215",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8947934,
+          47.921465
+        ]
+      },
+      "id": "node/9137211115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137225492",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "754314458573146",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8916406,
+          47.919517
+        ]
+      },
+      "id": "node/9137225492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9137257529",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1921211804714058",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8971877,
+          47.9243013
+        ]
+      },
+      "id": "node/9137257529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139550918",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "896867800920111",
+        "source:position": "Mapillary 2021-09-03",
+        "survey:date": "2021-09-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8207276,
+          47.9383952
+        ]
+      },
+      "id": "node/9139550918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139559217",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "374260087650358",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9254688,
+          47.891943
+        ]
+      },
+      "id": "node/9139559217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139559218",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "118921863843304",
+        "source:position": "Mapillary 2021-09-24",
+        "survey:date": "2021-09-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8785864,
+          47.8661546
+        ]
+      },
+      "id": "node/9139559218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9139561817",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "329026828774952",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8836732,
+          47.9602801
+        ]
+      },
+      "id": "node/9139561817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141038017",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "745219022822986",
+        "source:position": "Mapillary 2019-10-13",
+        "survey:date": "2019-10-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8845036,
+          47.9204126
+        ]
+      },
+      "id": "node/9141038017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141039517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "492037971902614",
+        "source:position": "Mapillary 2021-06-26",
+        "survey:date": "2021-06-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9180797,
+          47.8400173
+        ]
+      },
+      "id": "node/9141039517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141039518",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "701963037427064",
+        "source:position": "Mapillary 2021-09-25",
+        "survey:date": "2021-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9268477,
+          47.873634
+        ]
+      },
+      "id": "node/9141039518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141040317",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "125478199733174",
+        "source:position": "Mapillary 2021-07-03",
+        "survey:date": "2021-07-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9264569,
+          47.9107434
+        ]
+      },
+      "id": "node/9141040317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141046617",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "573858297130903",
+        "source:position": "Mapillary 2021-08-21",
+        "survey:date": "2021-08-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9381591,
+          47.9087025
+        ]
+      },
+      "id": "node/9141046617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141048217",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "2804929309817878",
+        "source:position": "Mapillary 2021-07-02",
+        "survey:date": "2021-07-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9114592,
+          47.8736298
+        ]
+      },
+      "id": "node/9141048217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141048317",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "140551361397620",
+        "source:position": "Mapillary 2021-06-18",
+        "survey:date": "2021-06-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9463234,
+          47.9391055
+        ]
+      },
+      "id": "node/9141048317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141048318",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "317071203211392",
+        "source:position": "Mapillary 2019-12-16",
+        "survey:date": "2020-03-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9627662,
+          47.9175027
+        ]
+      },
+      "id": "node/9141048318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141051517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "2725050937789257",
+        "source:position": "Mapillary 2021-09-25",
+        "survey:date": "2021-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9179757,
+          47.8673679
+        ]
+      },
+      "id": "node/9141051517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141052817",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "837505733552211",
+        "source:position": "Mapillary 2021-09-26",
+        "survey:date": "2021-09-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9046172,
+          47.8600482
+        ]
+      },
+      "id": "node/9141052817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141058317",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1860728064108749",
+        "source:position": "Mapillary 2021-08-16",
+        "survey:date": "2021-08-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9643224,
+          47.9056628
+        ]
+      },
+      "id": "node/9141058317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141058517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "262066265763385",
+        "source:position": "Mapillary 2021-08-30",
+        "survey:date": "2021-08-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9112491,
+          47.8912967
+        ]
+      },
+      "id": "node/9141058517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141064417",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "192377119483447",
+        "source:position": "Mapillary 2021-06-30",
+        "survey:date": "2021-06-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9806086,
+          47.9182725
+        ]
+      },
+      "id": "node/9141064417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141064517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "818695008771824",
+        "source:position": "Mapillary 2021-06-14",
+        "survey:date": "2021-06-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.94008,
+          47.9389767
+        ]
+      },
+      "id": "node/9141064517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141064817",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "361929552103229",
+        "source:position": "Mapillary 2021-07-06",
+        "survey:date": "2021-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9886087,
+          47.9005483
+        ]
+      },
+      "id": "node/9141064817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141064818",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "622772042448527",
+        "source:position": "Mapillary 2021-06-17",
+        "survey:date": "2021-06-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0015622,
+          47.9175465
+        ]
+      },
+      "id": "node/9141064818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141069617",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "407476140482629",
+        "source:position": "Mapillary 2021-07-02",
+        "survey:date": "2021-07-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9020291,
+          47.8718523
+        ]
+      },
+      "id": "node/9141069617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141071617",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "447337839981954",
+        "source:position": "Mapillary 2021-09-24",
+        "survey:date": "2021-09-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8863768,
+          47.8654182
+        ]
+      },
+      "id": "node/9141071617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141071618",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1016570092417275",
+        "source:position": "Mapillary 2021-07-05",
+        "survey:date": "2021-07-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9023181,
+          47.9488416
+        ]
+      },
+      "id": "node/9141071618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141073717",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "963199531169352",
+        "source:position": "Mapillary 2018-07-06",
+        "survey:date": "2021-07-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8651389,
+          47.8913604
+        ]
+      },
+      "id": "node/9141073717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141074217",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "846389356235611",
+        "source:position": "Mapillary 2021-06-20",
+        "survey:date": "2021-06-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9111208,
+          47.9056307
+        ]
+      },
+      "id": "node/9141074217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9150647298",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "814413972525510",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9714314,
+          47.9189859
+        ]
+      },
+      "id": "node/9150647298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153767917",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "841470449788952",
+        "source:position": "Mapillary 2021-06-13",
+        "survey:date": "2021-06-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9109369,
+          47.9388339
+        ]
+      },
+      "id": "node/9153767917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153767918",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "342927877390468",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8821369,
+          47.9533168
+        ]
+      },
+      "id": "node/9153767918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153810617",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "6469910869693296",
+        "source:position": "Mapillary 2021-09-25",
+        "survey:date": "2021-09-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9258555,
+          47.8745502
+        ]
+      },
+      "id": "node/9153810617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153813019",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "872844146772829",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.89717,
+          47.950756
+        ]
+      },
+      "id": "node/9153813019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153817317",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "837541870475828",
+        "source:position": "Mapillary 2021-06-17",
+        "survey:date": "2021-06-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9997406,
+          47.9182015
+        ]
+      },
+      "id": "node/9153817317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153817318",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1170875513322802",
+        "source:position": "Mapillary 2021-09-18",
+        "survey:date": "2021-09-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9272466,
+          47.8904511
+        ]
+      },
+      "id": "node/9153817318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153817517",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "504682940647458",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8956586,
+          47.9415743
+        ]
+      },
+      "id": "node/9153817517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153817518",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "209401201066719",
+        "source:position": "Mapillary 2021-07-04",
+        "survey:date": "2021-07-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.894731,
+          47.9434435
+        ]
+      },
+      "id": "node/9153817518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153817519",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1036822667054975",
+        "source:position": "Mapillary 2018-07-06",
+        "survey:date": "2021-09-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.895706,
+          47.9364647
+        ]
+      },
+      "id": "node/9153817519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160832123",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "ref": "55",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0427257,
+          47.9189257
+        ]
+      },
+      "id": "node/9160832123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9174991048",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9081274,
+          47.9136599
+        ]
+      },
+      "id": "node/9174991048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177609774",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "600910531089621",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9350632,
+          47.8900366
+        ]
+      },
+      "id": "node/9177609774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177622889",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "395398962183272",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9385948,
+          47.8837047
+        ]
+      },
+      "id": "node/9177622889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177634213",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "405955024322279",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9320695,
+          47.8906643
+        ]
+      },
+      "id": "node/9177634213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177667051",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4005110056214126",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.934972,
+          47.8799301
+        ]
+      },
+      "id": "node/9177667051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177667066",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9304034,
+          47.8794757
+        ]
+      },
+      "id": "node/9177667066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177670179",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "692912045435800",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9281542,
+          47.8889975
+        ]
+      },
+      "id": "node/9177670179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177673121",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9334328,
+          47.8767441
+        ]
+      },
+      "id": "node/9177673121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177681183",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1124865638252209",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9367506,
+          47.8872163
+        ]
+      },
+      "id": "node/9177681183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177684433",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "425325069214770",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9393817,
+          47.8812331
+        ]
+      },
+      "id": "node/9177684433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177688639",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9228972,
+          47.8671162
+        ]
+      },
+      "id": "node/9177688639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177699095",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1414793412219820",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9328322,
+          47.8380601
+        ]
+      },
+      "id": "node/9177699095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177706867",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1348307908944356",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9314597,
+          47.8455696
+        ]
+      },
+      "id": "node/9177706867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177719112",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "843546986245134",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8309823,
+          47.9337048
+        ]
+      },
+      "id": "node/9177719112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177720354",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "160742485983786",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9222944,
+          47.8304612
+        ]
+      },
+      "id": "node/9177720354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177724099",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "421047939449879",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.936074,
+          47.8169211
+        ]
+      },
+      "id": "node/9177724099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177728975",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "436451607811541",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9347179,
+          47.8176154
+        ]
+      },
+      "id": "node/9177728975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177732359",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1148105508934987",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9335246,
+          47.8319622
+        ]
+      },
+      "id": "node/9177732359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177732780",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1559093841116113",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9277515,
+          47.8285155
+        ]
+      },
+      "id": "node/9177732780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177733641",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "380966880249829",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9231432,
+          47.8307548
+        ]
+      },
+      "id": "node/9177733641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177744077",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "235624181958271",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9263655,
+          47.8258358
+        ]
+      },
+      "id": "node/9177744077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177761019",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "543755410136505",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8283965,
+          47.9205095
+        ]
+      },
+      "id": "node/9177761019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177764742",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "626194591710501",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9332673,
+          47.81751
+        ]
+      },
+      "id": "node/9177764742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177764759",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "4480557848655470",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8406808,
+          47.9064636
+        ]
+      },
+      "id": "node/9177764759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177772131",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "229835672536876",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.930026,
+          47.8156695
+        ]
+      },
+      "id": "node/9177772131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177778069",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "508724813596045",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8251569,
+          47.9172325
+        ]
+      },
+      "id": "node/9177778069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177778290",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1001318557353643",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8356763,
+          47.904921
+        ]
+      },
+      "id": "node/9177778290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177781637",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "344440910714066",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8260431,
+          47.9372514
+        ]
+      },
+      "id": "node/9177781637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177785943",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "287444092926162",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8281248,
+          47.916057
+        ]
+      },
+      "id": "node/9177785943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177807124",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1147755842294539",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8235085,
+          47.9395262
+        ]
+      },
+      "id": "node/9177807124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177811651",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar",
+        "mapillary": "1356647804710188",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8477429,
+          47.9632508
+        ]
+      },
+      "id": "node/9177811651"
     }
   ]
 }

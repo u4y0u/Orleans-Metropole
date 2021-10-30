@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-01T07:06:57Z",
+  "timestamp": "2021-10-30T11:18:56Z",
   "features": [
     {
       "type": "Feature",
@@ -470,6 +470,158 @@
         ]
       },
       "id": "node/9052459716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9143060777",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "611025866590479",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9047683,
+          47.9002087
+        ]
+      },
+      "id": "node/9143060777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192613881",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "386239469873791",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8998768,
+          47.9071131
+        ]
+      },
+      "id": "node/9192613881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192620969",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1535247706827684",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9026135,
+          47.904887
+        ]
+      },
+      "id": "node/9192620969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192623011",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "907580940169330",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.903595,
+          47.9027248
+        ]
+      },
+      "id": "node/9192623011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192624100",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1036194913860448",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9017933,
+          47.9064228
+        ]
+      },
+      "id": "node/9192624100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192649061",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1987476331428477",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9037267,
+          47.9014249
+        ]
+      },
+      "id": "node/9192649061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192649217",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "311912836938399",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9036369,
+          47.9021428
+        ]
+      },
+      "id": "node/9192649217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192656327",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "601636840865799",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9040862,
+          47.9013169
+        ]
+      },
+      "id": "node/9192656327"
     }
   ]
 }
