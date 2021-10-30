@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-01T06:56:43Z",
+  "timestamp": "2021-10-30T12:47:58Z",
   "features": [
     {
       "type": "Feature",
@@ -4211,19 +4211,20 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
-        "mapillary": "p2eIgubmBCrHpXMvfn5Vkw",
+        "mapillary": "228816442607436",
         "operator": "SFR",
-        "ref:FR:ARCEP": "SRO-BPI-4958176",
+        "ref:FR:ARCEP": "SRO-BPI-4958175",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9671064,
-          47.9122313
+          1.9670949,
+          47.912232
         ]
       },
       "id": "node/5756089697"
@@ -5388,6 +5389,7 @@
         "colour": "grey",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "558768122032253",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7812804",
         "ref:FR:SFR": "PM01",
@@ -5398,8 +5400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0184011,
-          47.9563717
+          2.0184036,
+          47.9563811
         ]
       },
       "id": "node/6228934633"
@@ -7563,12 +7565,14 @@
         "colour": "green",
         "location": "pavement",
         "man_made": "street_cabinet",
+        "mapillary": "875067433382888",
         "operator": "SFR",
         "owner": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-5538328",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7607,6 +7611,7 @@
         "colour": "white",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "1014719052695241",
         "ref:FR:ARCEP": "SRO-BPI-6931033",
         "ref:FR:SFR": "PM02",
         "street_cabinet": "telecom",
@@ -7885,6 +7890,9 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "323810965889156",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7811513",
         "ref:FR:SFR": "PM04",
@@ -8529,13 +8537,14 @@
         "ref:FR:SFR": "PM02",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8197709,
-          47.9453342
+          1.8197054,
+          47.9453236
         ]
       },
       "id": "node/7112639696"
@@ -9023,7 +9032,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
-        "mapillary": "-Kd6o4zmAPQj0ndwTYYV0g",
+        "mapillary": "1290485831395718",
         "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-11403614",
@@ -9036,8 +9045,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9782891,
-          47.913961
+          1.9782608,
+          47.9138904
         ]
       },
       "id": "node/7572842324"
@@ -9688,6 +9697,8 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-8133767",
         "ref:FR:SFR": "PM04",
@@ -9712,6 +9723,7 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "370598828115454",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-8133766",
         "ref:FR:SFR": "PM03",
@@ -9781,6 +9793,8 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "model": "pm300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-6931035",
         "ref:FR:SFR": "PM04",
@@ -10278,11 +10292,12 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "mapillary": "s6BUBSppEmW3dLH1WW42QS",
+        "manufacturer": "Idea Optical",
+        "mapillary": "157507999652957",
         "model": "PM300",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11403536",
+        "ref:FR:SFR": "PM17",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -10605,6 +10620,194 @@
         ]
       },
       "id": "node/9047487757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9150675447",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "175448494475688",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11403636",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9780489,
+          47.9174013
+        ]
+      },
+      "id": "node/9150675447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9150684834",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "814413972525510",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11405783",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "survey:date": "2021-10-06",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.971444,
+          47.9189978
+        ]
+      },
+      "id": "node/9150684834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9153833134",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "857679981555265",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11403596",
+        "ref:FR:SFR": "PM15",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9778307,
+          47.9111127
+        ]
+      },
+      "id": "node/9153833134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9157051029",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "391993675920860",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11403557",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.971228,
+          47.9237304
+        ]
+      },
+      "id": "node/9157051029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160832124",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-8509141",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0427671,
+          47.9190911
+        ]
+      },
+      "id": "node/9160832124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9195686927",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SR0-BPI-8323528",
+        "ref:FR:SFR": "PM05",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9498481,
+          47.8388588
+        ]
+      },
+      "id": "node/9195686927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9204830206",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "460990835353017",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-7044297",
+        "ref:FR:SFR": "PM09",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8346257,
+          47.8653951
+        ]
+      },
+      "id": "node/9204830206"
     }
   ]
 }
