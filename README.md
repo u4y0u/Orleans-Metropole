@@ -1,14 +1,14 @@
-## Orleans-Metropole
+# Orleans-Metropole
 
 
-# divers équipements
+## divers équipements
 Bornes incendie (pilar & underground) avec ref issues de OpenStreetMap®.
 
 PMZ (Point de mutualisation) avec ID ARCEP issus de OpenStreetMap®.
 
 Power : Sous Stations avec ref issues de OpenStreetMap®.
 
-# vélos
+## vélos
 Parkings vélos (bollard) issus de OpenStreetMap®.
 
 
