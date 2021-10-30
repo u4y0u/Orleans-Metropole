@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-01T07:17:05Z",
+  "timestamp": "2021-10-30T12:52:59Z",
   "features": [
     {
       "type": "Feature",
@@ -167,6 +167,48 @@
         ]
       },
       "id": "way/68395040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68395125",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8643805,
+              47.950512
+            ],
+            [
+              1.864391,
+              47.9505333
+            ],
+            [
+              1.8643626,
+              47.9505402
+            ],
+            [
+              1.864352,
+              47.9505195
+            ],
+            [
+              1.8643805,
+              47.950512
+            ]
+          ]
+        ]
+      },
+      "id": "way/68395125"
     },
     {
       "type": "Feature",
@@ -794,6 +836,48 @@
         ]
       },
       "id": "way/68404837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68404879",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8583056,
+              47.9477243
+            ],
+            [
+              1.8583289,
+              47.9477628
+            ],
+            [
+              1.8582979,
+              47.9477699
+            ],
+            [
+              1.8582761,
+              47.9477318
+            ],
+            [
+              1.8583056,
+              47.9477243
+            ]
+          ]
+        ]
+      },
+      "id": "way/68404879"
     },
     {
       "type": "Feature",
@@ -1920,6 +2004,94 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/68411990",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8845645,
+              47.9454314
+            ],
+            [
+              1.8845875,
+              47.9454609
+            ],
+            [
+              1.8845442,
+              47.9454751
+            ],
+            [
+              1.8845228,
+              47.9454454
+            ],
+            [
+              1.8845645,
+              47.9454314
+            ]
+          ]
+        ]
+      },
+      "id": "way/68411990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68412001",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8928333,
+              47.9354069
+            ],
+            [
+              1.8928767,
+              47.9354098
+            ],
+            [
+              1.8928358,
+              47.9354598
+            ],
+            [
+              1.8928005,
+              47.9354467
+            ],
+            [
+              1.8928317,
+              47.9354088
+            ],
+            [
+              1.8928333,
+              47.9354069
+            ]
+          ]
+        ]
+      },
+      "id": "way/68412001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/68412505",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -2041,6 +2213,48 @@
         ]
       },
       "id": "way/68413016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68413472",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8880959,
+              47.9358674
+            ],
+            [
+              1.8880924,
+              47.9358879
+            ],
+            [
+              1.8880363,
+              47.9358845
+            ],
+            [
+              1.8880394,
+              47.9358631
+            ],
+            [
+              1.8880959,
+              47.9358674
+            ]
+          ]
+        ]
+      },
+      "id": "way/68413472"
     },
     {
       "type": "Feature",
@@ -2261,6 +2475,48 @@
         ]
       },
       "id": "way/73141352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91469008",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "source": "Enedis - 06/2018",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0410275,
+              47.9169039
+            ],
+            [
+              2.0410007,
+              47.9168776
+            ],
+            [
+              2.041033,
+              47.9168628
+            ],
+            [
+              2.0410598,
+              47.916889
+            ],
+            [
+              2.0410275,
+              47.9169039
+            ]
+          ]
+        ]
+      },
+      "id": "way/91469008"
     },
     {
       "type": "Feature",
@@ -2950,6 +3206,48 @@
         ]
       },
       "id": "way/102168733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102168780",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8414594,
+              47.9498127
+            ],
+            [
+              1.8414707,
+              47.9497895
+            ],
+            [
+              1.841534,
+              47.9498029
+            ],
+            [
+              1.8415227,
+              47.9498262
+            ],
+            [
+              1.8414594,
+              47.9498127
+            ]
+          ]
+        ]
+      },
+      "id": "way/102168780"
     },
     {
       "type": "Feature",
@@ -3832,6 +4130,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/113705338",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.914329,
+              47.914225
+            ],
+            [
+              1.914386,
+              47.91424
+            ],
+            [
+              1.914382,
+              47.914265
+            ],
+            [
+              1.914317,
+              47.914249
+            ],
+            [
+              1.914329,
+              47.914225
+            ]
+          ]
+        ]
+      },
+      "id": "way/113705338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/113705424",
         "building": "service",
         "operator": "Enedis",
@@ -3877,6 +4217,8 @@
         "@id": "way/113705539",
         "building": "yes",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "substation": "minor_distribution",
@@ -4092,6 +4434,8 @@
         "building": "yes",
         "mapillary": "N0c2zDahBPmGMKLA8EUrVf",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "ref": "FRANCOIS GIROUST",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -4455,6 +4799,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/113709196",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.866828,
+              47.90522
+            ],
+            [
+              1.866844,
+              47.905201
+            ],
+            [
+              1.866872,
+              47.905211
+            ],
+            [
+              1.866856,
+              47.905231
+            ],
+            [
+              1.866828,
+              47.90522
+            ]
+          ]
+        ]
+      },
+      "id": "way/113709196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/113709293",
         "building": "yes",
         "operator": "Enedis",
@@ -4531,6 +4917,48 @@
         ]
       },
       "id": "way/113709623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113709628",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.869506,
+              47.897029
+            ],
+            [
+              1.869549,
+              47.897038
+            ],
+            [
+              1.869522,
+              47.897095
+            ],
+            [
+              1.86948,
+              47.897087
+            ],
+            [
+              1.869506,
+              47.897029
+            ]
+          ]
+        ]
+      },
+      "id": "way/113709628"
     },
     {
       "type": "Feature",
@@ -4653,6 +5081,48 @@
         ]
       },
       "id": "way/113709724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113710199",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.861358,
+              47.900438
+            ],
+            [
+              1.861361,
+              47.900413
+            ],
+            [
+              1.861416,
+              47.900417
+            ],
+            [
+              1.861413,
+              47.900442
+            ],
+            [
+              1.861358,
+              47.900438
+            ]
+          ]
+        ]
+      },
+      "id": "way/113710199"
     },
     {
       "type": "Feature",
@@ -4985,6 +5455,48 @@
         ]
       },
       "id": "way/113878655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113977746",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.910922,
+              47.899625
+            ],
+            [
+              1.910927,
+              47.899589
+            ],
+            [
+              1.910975,
+              47.899593
+            ],
+            [
+              1.910969,
+              47.899629
+            ],
+            [
+              1.910922,
+              47.899625
+            ]
+          ]
+        ]
+      },
+      "id": "way/113977746"
     },
     {
       "type": "Feature",
@@ -6589,6 +7101,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/124664186",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.913205,
+              47.909943
+            ],
+            [
+              1.913249,
+              47.909933
+            ],
+            [
+              1.913264,
+              47.909963
+            ],
+            [
+              1.91322,
+              47.909973
+            ],
+            [
+              1.913205,
+              47.909943
+            ]
+          ]
+        ]
+      },
+      "id": "way/124664186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/124664254",
         "building": "yes",
         "operator": "Enedis",
@@ -7825,6 +8379,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/126275700",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.901903,
+              47.919423
+            ],
+            [
+              1.901892,
+              47.919391
+            ],
+            [
+              1.901957,
+              47.91938
+            ],
+            [
+              1.901969,
+              47.919412
+            ],
+            [
+              1.901903,
+              47.919423
+            ]
+          ]
+        ]
+      },
+      "id": "way/126275700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/126275721",
         "building": "yes",
         "operator": "Enedis",
@@ -8230,6 +8826,48 @@
         ]
       },
       "id": "way/126277028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126277090",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.88972,
+              47.913579
+            ],
+            [
+              1.889782,
+              47.913582
+            ],
+            [
+              1.889774,
+              47.913609
+            ],
+            [
+              1.889714,
+              47.913601
+            ],
+            [
+              1.88972,
+              47.913579
+            ]
+          ]
+        ]
+      },
+      "id": "way/126277090"
     },
     {
       "type": "Feature",
@@ -12696,6 +13334,48 @@
         ]
       },
       "id": "way/178890392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178890509",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.968314,
+              47.906677
+            ],
+            [
+              1.968283,
+              47.906647
+            ],
+            [
+              1.968306,
+              47.906637
+            ],
+            [
+              1.968337,
+              47.906666
+            ],
+            [
+              1.968314,
+              47.906677
+            ]
+          ]
+        ]
+      },
+      "id": "way/178890509"
     },
     {
       "type": "Feature",
@@ -17325,6 +18005,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/245558617",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.862385,
+              47.9064834
+            ],
+            [
+              1.8623968,
+              47.9064629
+            ],
+            [
+              1.8624511,
+              47.9064793
+            ],
+            [
+              1.8624385,
+              47.9064967
+            ],
+            [
+              1.862385,
+              47.9064834
+            ]
+          ]
+        ]
+      },
+      "id": "way/245558617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/245558631",
         "building": "service",
         "operator": "Enedis",
@@ -17535,6 +18257,52 @@
         ]
       },
       "id": "way/245561377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245561402",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8818879,
+              47.9159301
+            ],
+            [
+              1.8819492,
+              47.9159333
+            ],
+            [
+              1.8819435,
+              47.9159634
+            ],
+            [
+              1.881931,
+              47.9159671
+            ],
+            [
+              1.8818867,
+              47.9159652
+            ],
+            [
+              1.8818879,
+              47.9159301
+            ]
+          ]
+        ]
+      },
+      "id": "way/245561402"
     },
     {
       "type": "Feature",
@@ -18998,6 +19766,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/246979887",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8959303,
+              47.9365347
+            ],
+            [
+              1.8958724,
+              47.9365216
+            ],
+            [
+              1.8958935,
+              47.9364799
+            ],
+            [
+              1.8959518,
+              47.9364933
+            ],
+            [
+              1.8959303,
+              47.9365347
+            ]
+          ]
+        ]
+      },
+      "id": "way/246979887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/246979915",
         "building": "service",
         "operator": "Enedis",
@@ -20263,6 +21073,48 @@
         ]
       },
       "id": "way/246986373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246986410",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9068586,
+              47.9298732
+            ],
+            [
+              1.9068746,
+              47.9298376
+            ],
+            [
+              1.9069356,
+              47.9298508
+            ],
+            [
+              1.9069208,
+              47.9298849
+            ],
+            [
+              1.9068586,
+              47.9298732
+            ]
+          ]
+        ]
+      },
+      "id": "way/246986410"
     },
     {
       "type": "Feature",
@@ -22399,6 +23251,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/283059147",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8591021,
+              47.9037083
+            ],
+            [
+              1.8591536,
+              47.9037163
+            ],
+            [
+              1.8591472,
+              47.9037444
+            ],
+            [
+              1.8590958,
+              47.9037388
+            ],
+            [
+              1.8591021,
+              47.9037083
+            ]
+          ]
+        ]
+      },
+      "id": "way/283059147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/283059168",
         "building": "service",
         "location": "indoor",
@@ -23193,6 +24087,52 @@
         ]
       },
       "id": "way/283060916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283060966",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8569107,
+              47.9123146
+            ],
+            [
+              1.8569002,
+              47.9123471
+            ],
+            [
+              1.8568511,
+              47.9123402
+            ],
+            [
+              1.8568495,
+              47.9123401
+            ],
+            [
+              1.8568599,
+              47.9123072
+            ],
+            [
+              1.8569107,
+              47.9123146
+            ]
+          ]
+        ]
+      },
+      "id": "way/283060966"
     },
     {
       "type": "Feature",
@@ -25386,6 +26326,8 @@
         "@id": "way/336809047",
         "building": "transformer_tower",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
         "source:power": "Enedis",
@@ -25397,24 +26339,24 @@
         "coordinates": [
           [
             [
-              2.012167,
-              47.930709
+              2.012155,
+              47.9307022
             ],
             [
-              2.012168,
-              47.930689
+              2.0121564,
+              47.9306832
             ],
             [
-              2.0122,
-              47.930691
+              2.0121879,
+              47.9306843
             ],
             [
-              2.012198,
-              47.930709
+              2.0121865,
+              47.9307032
             ],
             [
-              2.012167,
-              47.930709
+              2.012155,
+              47.9307022
             ]
           ]
         ]
@@ -26094,6 +27036,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/384216755",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
         "substation": "minor_distribution"
@@ -30201,6 +31146,45 @@
         ]
       },
       "id": "way/737065787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743593556",
+        "mapillary": "Pozu-ECiMIOn-Hmqcvuipg",
+        "name": "Bâtiment 129",
+        "power": "substation",
+        "ref": "SANITAIRES ARMEES",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9340888,
+              47.9558241
+            ],
+            [
+              1.9340874,
+              47.955728
+            ],
+            [
+              1.9342235,
+              47.9557285
+            ],
+            [
+              1.9342258,
+              47.9558242
+            ],
+            [
+              1.9340888,
+              47.9558241
+            ]
+          ]
+        ]
+      },
+      "id": "way/743593556"
     },
     {
       "type": "Feature",
@@ -35677,7 +36661,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/846849114",
-        "area": "yes",
         "building": "yes",
         "operator": "Enedis",
         "power": "substation",
@@ -35802,7 +36785,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/846853512",
-        "area": "yes",
         "building": "yes",
         "operator": "Enedis",
         "power": "substation",
@@ -35843,7 +36825,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/846855424",
-        "area": "yes",
         "building": "yes",
         "operator": "Enedis",
         "power": "substation",
@@ -35924,7 +36905,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/846860191",
-        "area": "yes",
         "building": "yes",
         "operator": "Enedis",
         "power": "substation",
@@ -36088,7 +37068,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/846886227",
-        "area": "yes",
         "building": "yes",
         "mapillary": "7Isgbrr7MhKFbLzfSPB6Zw",
         "operator": "Enedis",
@@ -36569,6 +37548,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/897202032",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "source": "Enedis - 06/2018",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0053499,
+              47.925771
+            ],
+            [
+              2.0054187,
+              47.9257701
+            ],
+            [
+              2.0054197,
+              47.9258063
+            ],
+            [
+              2.0053509,
+              47.9258072
+            ],
+            [
+              2.0053499,
+              47.925771
+            ]
+          ]
+        ]
+      },
+      "id": "way/897202032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/899405549",
         "building": "yes",
         "operator": "Enedis",
@@ -36766,6 +37787,48 @@
         ]
       },
       "id": "way/902475321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903122576",
+        "building": "service",
+        "operator": "Enedis",
+        "power": "substation",
+        "service": "utility",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2021",
+        "source:power": "Enedis",
+        "substation": "minor_distribution",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8736641,
+              47.9225547
+            ],
+            [
+              1.8736496,
+              47.9225155
+            ],
+            [
+              1.8736806,
+              47.9225103
+            ],
+            [
+              1.873695,
+              47.9225496
+            ],
+            [
+              1.8736641,
+              47.9225547
+            ]
+          ]
+        ]
+      },
+      "id": "way/903122576"
     },
     {
       "type": "Feature",
@@ -37141,6 +38204,213 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/984853456",
+        "building": "yes",
+        "mapillary": "872188993692226",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0225097,
+              47.9461783
+            ],
+            [
+              2.0225038,
+              47.9461949
+            ],
+            [
+              2.022456,
+              47.9461873
+            ],
+            [
+              2.0224619,
+              47.9461707
+            ],
+            [
+              2.0225097,
+              47.9461783
+            ]
+          ]
+        ]
+      },
+      "id": "way/984853456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/984863417",
+        "building": "yes",
+        "mapillary": "958411171402655",
+        "operator": "Enedis",
+        "power": "substation",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0216949,
+              47.9459244
+            ],
+            [
+              2.0216797,
+              47.9459415
+            ],
+            [
+              2.0216355,
+              47.9459238
+            ],
+            [
+              2.0216507,
+              47.9459067
+            ],
+            [
+              2.0216949,
+              47.9459244
+            ]
+          ]
+        ]
+      },
+      "id": "way/984863417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/991515234",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "substation": "minor_distribution"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.036673,
+              47.9105512
+            ],
+            [
+              2.0366924,
+              47.9105745
+            ],
+            [
+              2.0366676,
+              47.9105838
+            ],
+            [
+              2.0366482,
+              47.9105605
+            ],
+            [
+              2.036673,
+              47.9105512
+            ]
+          ]
+        ]
+      },
+      "id": "way/991515234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993395153",
+        "building": "yes",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "source": "Enedis - 06/2018",
+        "substation": "minor_distribution",
+        "voltage": "20000;400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9366756,
+              47.887294
+            ],
+            [
+              1.936692,
+              47.8873072
+            ],
+            [
+              1.9366615,
+              47.8873243
+            ],
+            [
+              1.9366451,
+              47.8873111
+            ],
+            [
+              1.9366756,
+              47.887294
+            ]
+          ]
+        ]
+      },
+      "id": "way/993395153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995923411",
+        "building": "yes",
+        "location": "green",
+        "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
+        "power": "substation",
+        "street_cabinet": "power",
+        "substation": "minor_distribution",
+        "transformer": "distribution",
+        "voltage:primary": "20000",
+        "voltage:secondary": "400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8250952,
+              47.9380305
+            ],
+            [
+              1.8250688,
+              47.9380479
+            ],
+            [
+              1.8250364,
+              47.938026
+            ],
+            [
+              1.8250628,
+              47.9380085
+            ],
+            [
+              1.8250952,
+              47.9380305
+            ]
+          ]
+        ]
+      },
+      "id": "way/995923411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5706780400",
         "location": "green",
         "man_made": "street_cabinet",
@@ -37455,28 +38725,6 @@
         ]
       },
       "id": "node/5843693264"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5843796054",
-        "location": "green",
-        "operator": "Enedis",
-        "power": "substation",
-        "street_cabinet": "power",
-        "substation": "minor_distribution",
-        "transformer": "distribution",
-        "voltage:primary": "20000",
-        "voltage:secondary": "400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8250773,
-          47.9380228
-        ]
-      },
-      "id": "node/5843796054"
     },
     {
       "type": "Feature",
@@ -38170,24 +39418,6 @@
         ]
       },
       "id": "node/6852185283"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6959694644",
-        "mapillary": "Pozu-ECiMIOn-Hmqcvuipg",
-        "power": "substation",
-        "ref": "SANITAIRES ARMEES",
-        "substation": "minor_distribution"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9341504,
-          47.9557617
-        ]
-      },
-      "id": "node/6959694644"
     },
     {
       "type": "Feature",
@@ -43695,25 +44925,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7452129837",
-        "operator": "Enedis",
-        "power": "substation",
-        "source": "Enedis - 06/2018",
-        "substation": "minor_distribution",
-        "voltage": "20000;400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.9366691,
-          47.8873157
-        ]
-      },
-      "id": "node/7452129837"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7452130549",
         "operator": "Enedis",
         "power": "substation",
@@ -47300,25 +48511,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7463875442",
-        "operator": "Enedis",
-        "power": "substation",
-        "source": "Enedis - 06/2018",
-        "substation": "minor_distribution",
-        "voltage": "20000;400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.0053755,
-          47.9257547
-        ]
-      },
-      "id": "node/7463875442"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7463876247",
         "operator": "Enedis",
         "power": "substation",
@@ -47481,8 +48673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0119842,
-          47.927519
+          2.011974,
+          47.9275161
         ]
       },
       "id": "node/7463889929"
@@ -47600,25 +48792,6 @@
         ]
       },
       "id": "node/7463897907"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7463898538",
-        "operator": "Enedis",
-        "power": "substation",
-        "source": "Enedis - 06/2018",
-        "substation": "minor_distribution",
-        "voltage": "20000;400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.0410233,
-          47.9168874
-        ]
-      },
-      "id": "node/7463898538"
     },
     {
       "type": "Feature",
