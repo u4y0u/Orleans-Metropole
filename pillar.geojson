@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-30T11:16:46Z",
+  "timestamp": "2021-11-11T19:30:14Z",
   "features": [
     {
       "type": "Feature",
@@ -1399,17 +1399,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1363298259",
+        "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
-        "mapillary": "RNTuqvCyAdBIWIbnb3zcyA",
-        "source:position": "Mapillary 2019-12-16",
-        "survey:date": "2019-12-16"
+        "mapillary": "174274668172436",
+        "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8946067,
-          47.9080178
+          1.8945806,
+          47.9079821
         ]
       },
       "id": "node/1363298259"
@@ -22523,6 +22523,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "pillar",
+        "mapillary": "2945352252452192",
         "water_source": "main"
       },
       "geometry": {
@@ -22533,25 +22534,6 @@
         ]
       },
       "id": "node/8894149890"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8894158319",
-        "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar",
-        "mapillary": "6AV_o3WBGxM8mR5LxKtYXg",
-        "source:position": "Mapillary 2020-05-22",
-        "survey:date": "2019-10-10"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8824186,
-          47.9065106
-        ]
-      },
-      "id": "node/8894158319"
     },
     {
       "type": "Feature",
