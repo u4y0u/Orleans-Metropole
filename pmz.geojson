@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-30T12:47:58Z",
+  "timestamp": "2021-11-11T17:20:42Z",
   "features": [
     {
       "type": "Feature",
@@ -2386,6 +2386,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
+        "mapillary": "381410860391712",
         "model": "PM100",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-003W",
@@ -2393,13 +2394,14 @@
         "ref:FR:Orange:NRO": "45234GAS",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9031307,
-          47.9059364
+          1.9031087,
+          47.9059533
         ]
       },
       "id": "node/5734446241"
@@ -2626,7 +2628,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
-        "mapillary": "4135326509846732",
+        "mapillary": "261893389107669",
         "model": "PM100",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-004G",
@@ -3095,6 +3097,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
+        "mapillary": "243434321172626",
         "model": "PM100",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-00EB",
@@ -3102,7 +3105,8 @@
         "ref:FR:Orange:NRO": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4910,7 +4914,8 @@
         "ref:FR:SFR": "PM17",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5295,12 +5300,15 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "956462564936234",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-5538329",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5319,12 +5327,15 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "1565227233826143",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-5524284",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5483,13 +5494,15 @@
         "colour": "grey",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "1075862943260279",
         "operator": "SFR",
         "owner": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-8284825",
         "ref:FR:SFR": "PM21",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6513,11 +6526,14 @@
         "colour": "gray",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "1893143930833016",
+        "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-6553542",
         "ref:FR:SFR": "PM15",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6555,13 +6571,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6411554718",
+        "colour": "white",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "275783694554499",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-00HK",
-        "ref:FR:Orange": "PT0243,PT0278",
+        "ref:FR:Orange": "PT480",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6883,18 +6903,22 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "1199052720565205",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7578570",
         "ref:FR:SFR": "PM06",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8317493,
-          47.9286392
+          1.8317487,
+          47.9286544
         ]
       },
       "id": "node/6440662989"
@@ -6906,12 +6930,14 @@
         "colour": "grey",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7578571",
         "ref:FR:SFR": "PM07",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6974,13 +7000,16 @@
       "properties": {
         "@id": "node/6440849788",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-45234-00O1",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7021,10 +7050,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6440901485",
+        "colour": "white",
         "man_made": "street_cabinet",
-        "mapillary": "YhOwz2EHCIZVf7Ac0yTWYA",
+        "manufacturer": "Grolleau",
+        "mapillary": "931656057696104",
+        "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00NY",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -7044,9 +7076,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6440901486",
+        "colour": "white",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "931656057696104",
+        "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00O0",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -7092,18 +7128,22 @@
         "colour": "white",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "403880967840129",
+        "model": "PM300",
         "operator": "SFR",
         "owner": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7580471",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8811527,
-          47.8670697
+          1.8811635,
+          47.8670391
         ]
       },
       "id": "node/6449096586"
@@ -7134,16 +7174,25 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6449195385",
+        "colour": "white",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "625264458466579",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00GA",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8859313,
-          47.9060507
+          1.885943,
+          47.9060444
         ]
       },
       "id": "node/6449195385"
@@ -7152,10 +7201,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6449195388",
+        "colour": "white",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "1045910166176194",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00O9",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7170,16 +7228,23 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6449207585",
+        "colour": "white",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NT",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8942621,
-          47.9085089
+          1.8942729,
+          47.9085252
         ]
       },
       "id": "node/6449207585"
@@ -7657,12 +7722,16 @@
         "colour": "grey",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "1261951070910079",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-4977018",
         "ref:FR:SFR": "PM19",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7725,15 +7794,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6836733463",
-        "colour": "gray",
+        "colour": "grey",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7578569",
         "ref:FR:SFR": "PM05",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7844,17 +7915,20 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "286471576645250",
+        "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7590085",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8950801,
-          47.8565632
+          1.895632,
+          47.8572663
         ]
       },
       "id": "node/6837120528"
@@ -8031,15 +8105,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6881488925",
-        "colour": "white",
+        "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "844911776225384",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7590087",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8057,12 +8134,16 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "583836466274961",
+        "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7590084",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8388,12 +8469,14 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "372918614573200",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-7208590",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8437,6 +8520,8 @@
         "manufacturer": "Grolleau",
         "mapillary": "04VwpbDN6NlVSGCk7Ohl6s",
         "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00G1",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -8531,6 +8616,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "1707634829427468",
         "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-8133765",
@@ -8608,6 +8694,8 @@
         "mapillary": "a8HJAA1MR6E43iEUPuBhtw",
         "model": "PM100",
         "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NK",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -8781,10 +8869,13 @@
       "properties": {
         "@id": "node/7549211614",
         "colour": "white",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "mapillary": "6lIH35zPYVUFm3YnyZsqHg",
+        "manufacturer": "Grolleau",
+        "mapillary": "2796898620606087",
+        "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00OH",
         "ref:FR:Orange": "NC",
         "ref:FR:Orange:NRO": "45234GAS",
         "street_cabinet": "telecom",
@@ -8795,8 +8886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8977641,
-          47.9210114
+          1.8978111,
+          47.9209955
         ]
       },
       "id": "node/7549211614"
@@ -8807,6 +8898,12 @@
         "@id": "node/7549211615",
         "colour": "white",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "2796898620606087",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009E",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -8815,8 +8912,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8977774,
-          47.9210141
+          1.8977935,
+          47.9209943
         ]
       },
       "id": "node/7549211615"
@@ -8827,9 +8924,11 @@
         "@id": "node/7549408802",
         "colour": "white",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
         "mapillary": "iNG7aExi5dxa8STGuHJVYA",
+        "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00EC",
         "ref:FR:Orange": "NC",
         "ref:FR:Orange:NRO": "NC",
         "street_cabinet": "telecom",
@@ -8856,7 +8955,7 @@
         "mapillary": "QEfk2ngWsXhkj45JHOnTHw",
         "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00ED",
         "ref:FR:Orange": "NC",
         "ref:FR:Orange:NRO": "Nc",
         "street_cabinet": "telecom",
@@ -8883,9 +8982,9 @@
         "mapillary": "QEfk2ngWsXhkj45JHOnTHw",
         "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00P4",
         "ref:FR:Orange": "NC",
-        "ref:FR:Orange:NRO": "Nc",
+        "ref:FR:Orange:NRO": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -8910,7 +9009,7 @@
         "mapillary": "VUaYr-zFOG3z0Y77xcHLuw",
         "operator": "Orange",
         "owner": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00NA",
         "ref:FR:Orange": "NC",
         "ref:FR:Orange:NRO": "NC",
         "street_cabinet": "telecom",
@@ -9142,8 +9241,11 @@
         "colour": "white",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
+        "mapillary": "175753791104309",
         "model": "PM100",
         "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NF",
+        "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -9194,7 +9296,7 @@
         "manufacturer": "Grolleau",
         "model": "PM100",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-007P",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -9220,7 +9322,7 @@
         "manufacturer": "Grolleau",
         "operator": "Orange",
         "owner": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00G9",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -9301,7 +9403,7 @@
         "man_made": "street_cabinet",
         "mapillary": "xPpSbySg93uhepazxHGhTX",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-008S",
         "ref:FR:Orange": "NC",
         "ref:FR:Orange:NRO": "GAS",
         "street_cabinet": "telecom",
@@ -9463,7 +9565,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
-        "mapillary": "XthjYwrDqweyeOcfcz9Ws4",
+        "mapillary": "508779413820264",
         "model": "PM100",
         "operator": "Orange",
         "owner": "Orange",
@@ -9579,7 +9681,7 @@
         "model": "PM100",
         "operator": "Orange",
         "owner": "Orange",
-        "ref:FR:ARCEP": "NC",
+        "ref:FR:ARCEP": "FI-45234-00NQ",
         "ref:FR:Orange": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -9698,6 +9800,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "240596674717257",
         "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-8133767",
@@ -9729,7 +9832,8 @@
         "ref:FR:SFR": "PM03",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9914,19 +10018,21 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Idea Optical",
+        "mapillary": "1049488852555668",
         "model": "PM300",
         "operator": "SFR",
         "ref:FR:ARCEP": "SRO-BPI-5509832",
         "ref:FR:SFR": "NC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8914941,
-          47.8598818
+          1.8915009,
+          47.8598763
         ]
       },
       "id": "node/8334008553"
@@ -9970,7 +10076,8 @@
         "ref:FR:SFR": "PM01",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10624,6 +10731,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9105002274",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "852867828752452",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-7812805",
+        "ref:FR:SFR": "PM02",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0201522,
+          47.9548784
+        ]
+      },
+      "id": "node/9105002274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9150675447",
         "colour": "green",
         "hinge": "horizontal",
@@ -10808,6 +10942,1204 @@
         ]
       },
       "id": "node/9204830206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215758737",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "412539333788369",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009H",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8973642,
+          47.9187183
+        ]
+      },
+      "id": "node/9215758737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215758738",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "412539333788369",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009I",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8973633,
+          47.9187246
+        ]
+      },
+      "id": "node/9215758738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9227155261",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "mapillary": "4728690540523988",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-8323527",
+        "ref:FR:SFR": "PM04",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9673611,
+          47.8351756
+        ]
+      },
+      "id": "node/9227155261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234680171",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "1738957872961143",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-008B",
+        "ref:FR:Orange": "PT003119",
+        "ref:FR:Orange:NRO": "GAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9038471,
+          47.9037842
+        ]
+      },
+      "id": "node/9234680171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234682100",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "674289946874007",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00L0",
+        "ref:FR:Orange": "5011",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9018359,
+          47.9077645
+        ]
+      },
+      "id": "node/9234682100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234684277",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "946321555977614",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00LI",
+        "ref:FR:Orange": "5009",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8999021,
+          47.9071156
+        ]
+      },
+      "id": "node/9234684277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234732497",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "435880744719775",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-008U",
+        "ref:FR:Orange": "PT003090",
+        "ref:FR:Orange:NRO": "GAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.910025,
+          47.9004105
+        ]
+      },
+      "id": "node/9234732497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234741169",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "238987694807315",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NX",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8969264,
+          47.9083925
+        ]
+      },
+      "id": "node/9234741169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234762900",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "314201906744270",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "NC",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8992202,
+          47.9093231
+        ]
+      },
+      "id": "node/9234762900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234762901",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "314201906744270",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "NC",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8992151,
+          47.9093292
+        ]
+      },
+      "id": "node/9234762901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234781829",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NZ",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8964646,
+          47.9110209
+        ]
+      },
+      "id": "node/9234781829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234791472",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "248389227045535",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8878337,
+          47.9021813
+        ]
+      },
+      "id": "node/9234791472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234809115",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NJ",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.895524,
+          47.9118462
+        ]
+      },
+      "id": "node/9234809115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234855251",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "986195808621850",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00O6",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8964645,
+          47.9051072
+        ]
+      },
+      "id": "node/9234855251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234900645",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NS",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8920526,
+          47.9022338
+        ]
+      },
+      "id": "node/9234900645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234921601",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OB",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8921383,
+          47.9029179
+        ]
+      },
+      "id": "node/9234921601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234950726",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "mapillary": "548023652865973",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00O8",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8931852,
+          47.9044809
+        ]
+      },
+      "id": "node/9234950726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9235064335",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00EE",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8811427,
+          47.9045043
+        ]
+      },
+      "id": "node/9235064335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241582808",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NO",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8860464,
+          47.9023707
+        ]
+      },
+      "id": "node/9241582808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241582809",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NG",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8860918,
+          47.9031185
+        ]
+      },
+      "id": "node/9241582809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241594996",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00O3",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8881394,
+          47.9056734
+        ]
+      },
+      "id": "node/9241594996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241606189",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00O4",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8883806,
+          47.9037112
+        ]
+      },
+      "id": "node/9241606189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241663076",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NV",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8945509,
+          47.9075703
+        ]
+      },
+      "id": "node/9241663076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241690227",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NW",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8934213,
+          47.9075431
+        ]
+      },
+      "id": "node/9241690227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241694029",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "983120529112988",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NB",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8927839,
+          47.9090424
+        ]
+      },
+      "id": "node/9241694029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9241840217",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NN",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8959612,
+          47.9104297
+        ]
+      },
+      "id": "node/9241840217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242688850",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "453416825980728",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009F",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.898828,
+          47.9189066
+        ]
+      },
+      "id": "node/9242688850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242716175",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "454638608910423",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OG",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8954721,
+          47.9227545
+        ]
+      },
+      "id": "node/9242716175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242755926",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "494520371795863",
+        "model": "PM100",
+        "ref:FR:ARCEP": "FI-45234-00OJ",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8954434,
+          47.9238123
+        ]
+      },
+      "id": "node/9242755926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242821058",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "405343117634009",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009D",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8936232,
+          47.9182536
+        ]
+      },
+      "id": "node/9242821058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242868150",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "151580687174077",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-009G",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.892844,
+          47.9197983
+        ]
+      },
+      "id": "node/9242868150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242912932",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "157594869688943",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OF",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8924443,
+          47.9223015
+        ]
+      },
+      "id": "node/9242912932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242913898",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "3934305719998486",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-007N",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8889536,
+          47.9263199
+        ]
+      },
+      "id": "node/9242913898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242946244",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "143969194379286",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-007M",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8907739,
+          47.9235201
+        ]
+      },
+      "id": "node/9242946244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243055953",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "1056352918232480",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OD",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8928664,
+          47.9304675
+        ]
+      },
+      "id": "node/9243055953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243066302",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "933341210895106",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OE",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8941624,
+          47.9290695
+        ]
+      },
+      "id": "node/9243066302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243082424",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OL",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8950806,
+          47.9306487
+        ]
+      },
+      "id": "node/9243082424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243106227",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "344495210419195",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OK",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8963052,
+          47.9265526
+        ]
+      },
+      "id": "node/9243106227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243121423",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "549639029526189",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00OI",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8966181,
+          47.9254639
+        ]
+      },
+      "id": "node/9243121423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243260045",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "380165230197614",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00ND",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8970213,
+          47.9081373
+        ]
+      },
+      "id": "node/9243260045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243399566",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "1171348843278498",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-007O",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8868732,
+          47.9271676
+        ]
+      },
+      "id": "node/9243399566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243414278",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "274103430818623",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NU",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8905169,
+          47.9103472
+        ]
+      },
+      "id": "node/9243414278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243522993",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "108381394830798",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NH",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8824803,
+          47.8992418
+        ]
+      },
+      "id": "node/9243522993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243522994",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "108381394830798",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NM",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8824843,
+          47.8992303
+        ]
+      },
+      "id": "node/9243522994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243553526",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "1229937174087174",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00NL",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.88031,
+          47.8986211
+        ]
+      },
+      "id": "node/9243553526"
     }
   ]
 }
