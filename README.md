@@ -4,7 +4,9 @@
 ## divers équipements
 Bornes incendie (pilar & underground) avec ref issues de OpenStreetMap®.
 
-PMZ (Point de mutualisation) avec ID ARCEP issus de OpenStreetMap®.
+PMZ (Point de mutualisation fibre) avec ID ARCEP issus de OpenStreetMap®.
+
+SR (Point de mutualisation cuivre) avec ID PTT issus de OpenStreetMap®.
 
 Power : Sous Stations avec ref issues de OpenStreetMap®.
 
