@@ -16,7 +16,7 @@ Parkings vélos (bollard) issus de OpenStreetMap®.
 
 
 
-Fichiers du Projet QGIS / QField - Version du 11/11/2021. ( https://github.com/u4y0u/Orleans-Metropole/archive/refs/heads/main.zip )
+Fichiers du Projet QGIS / QField - Version du 12/11/2021. ( https://github.com/u4y0u/Orleans-Metropole/archive/refs/heads/main.zip )
 
 Jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
 
