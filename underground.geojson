@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-11T19:43:19Z",
+  "timestamp": "2021-11-13T17:44:44Z",
   "features": [
     {
       "type": "Feature",
@@ -197,14 +197,14 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "underground",
-        "mapillary": "5sPMuUX4djsYvqyUD0GIDk",
+        "mapillary": "239372184859471",
         "water_source": "main"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9022295,
-          47.9011412
+          1.9022456,
+          47.9011329
         ]
       },
       "id": "node/8024537676"
@@ -365,7 +365,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "underground",
-        "mapillary": "849206895677243",
+        "mapillary": "1034602577082993",
         "water_source": "main"
       },
       "geometry": {
@@ -384,6 +384,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "underground",
+        "mapillary": "592697902065237",
         "water_source": "main"
       },
       "geometry": {
@@ -905,6 +906,119 @@
         ]
       },
       "id": "node/9244272813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248549487",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8984618,
+          47.9030191
+        ]
+      },
+      "id": "node/9248549487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248699400",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "585274512737545",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9013673,
+          47.9005974
+        ]
+      },
+      "id": "node/9248699400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248737327",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "106209478548169",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9009934,
+          47.9041962
+        ]
+      },
+      "id": "node/9248737327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248738640",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "199462655683444",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9024149,
+          47.9036428
+        ]
+      },
+      "id": "node/9248738640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248743502",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1290572111379100",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8956401,
+          47.9045442
+        ]
+      },
+      "id": "node/9248743502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248754521",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "map": "592796061967671",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9009047,
+          47.9051804
+        ]
+      },
+      "id": "node/9248754521"
     }
   ]
 }
