@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-30T12:52:59Z",
+  "timestamp": "2021-11-13T18:02:59Z",
   "features": [
     {
       "type": "Feature",
@@ -30311,24 +30311,24 @@
         "coordinates": [
           [
             [
-              1.8309176,
-              47.9489133
+              1.830911,
+              47.9489247
             ],
             [
-              1.8309327,
-              47.9488945
+              1.8309228,
+              47.9489043
             ],
             [
-              1.8309762,
-              47.948908
+              1.830966,
+              47.9489155
             ],
             [
-              1.8309577,
-              47.9489268
+              1.8309542,
+              47.9489359
             ],
             [
-              1.8309176,
-              47.9489133
+              1.830911,
+              47.9489247
             ]
           ]
         ]
@@ -33397,24 +33397,24 @@
         "coordinates": [
           [
             [
-              1.8862912,
-              47.9083392
+              1.8862979,
+              47.9084336
             ],
             [
-              1.8862761,
-              47.9083621
+              1.8862641,
+              47.9084429
             ],
             [
-              1.8861915,
-              47.9083368
+              1.886245,
+              47.9084117
             ],
             [
-              1.8862066,
-              47.908314
+              1.8862788,
+              47.9084024
             ],
             [
-              1.8862912,
-              47.9083392
+              1.8862979,
+              47.9084336
             ]
           ]
         ]
@@ -40351,8 +40351,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7433953147",
+        "mapillary": "266552372091203",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
+        "ref": "LIMARE",
         "source": "Enedis - 06/2018",
         "substation": "minor_distribution",
         "voltage": "20000;400"
@@ -42637,8 +42641,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7451310658",
+        "map": "945662013042547",
+        "mapillary": "945662013042547",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
+        "operator:wikipedia": "fr:Enedis",
         "power": "substation",
+        "ref": "ORLEANS 2000",
         "source": "Enedis - 06/2018",
         "substation": "minor_distribution",
         "voltage": "20000;400"
