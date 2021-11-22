@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-13T17:44:44Z",
+  "timestamp": "2021-11-22T11:15:24Z",
   "features": [
     {
       "type": "Feature",
@@ -1019,6 +1019,24 @@
         ]
       },
       "id": "node/9248754521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274435759",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9092681,
+          47.9052918
+        ]
+      },
+      "id": "node/9274435759"
     }
   ]
 }
