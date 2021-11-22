@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-22T11:12:20Z",
+  "timestamp": "2021-11-22T11:56:53Z",
   "features": [
     {
       "type": "Feature",
@@ -2819,6 +2819,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
+        "mapillary": "128836196007570",
         "model": "PM100",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-45234-00KI",
@@ -2826,7 +2827,8 @@
         "ref:FR:Orange:NRO": "45234MST",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12887,6 +12889,85 @@
         ]
       },
       "id": "node/9274478729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274697014",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00KE",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9126517,
+          47.9058449
+        ]
+      },
+      "id": "node/9274697014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274717195",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "311180387502645",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00KM",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9122026,
+          47.908478
+        ]
+      },
+      "id": "node/9274717195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274721201",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "mapillary": "381778483683352",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00KF",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9131132,
+          47.9081014
+        ]
+      },
+      "id": "node/9274721201"
     }
   ]
 }
