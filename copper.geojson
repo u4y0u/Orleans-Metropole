@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-22T10:08:23Z",
+  "timestamp": "2021-11-22T11:11:17Z",
   "features": [
     {
       "type": "Feature",
@@ -1458,11 +1458,14 @@
         "colour": "white",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "ref:FR:PTT": "NC",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GAS/A19",
+        "ref:FR:PTT": "A19",
         "ref:FR:PTT:NRA": "GAS",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4351,6 +4354,47 @@
         ]
       },
       "id": "node/9263372142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274488934",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GAS/A01/0AR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9088945,
+          47.9061294
+        ]
+      },
+      "id": "node/9274488934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274659890",
+        "mapillary": "2336097806521682",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GAS/A27",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9097863,
+          47.9063638
+        ]
+      },
+      "id": "node/9274659890"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-22T09:51:07Z",
+  "timestamp": "2021-11-22T11:12:20Z",
   "features": [
     {
       "type": "Feature",
@@ -12835,6 +12835,58 @@
         ]
       },
       "id": "node/9263321653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274450201",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00FS",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9100959,
+          47.9050843
+        ]
+      },
+      "id": "node/9274450201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9274478729",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "model": "PM100",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-45234-00FT",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9106274,
+          47.9043644
+        ]
+      },
+      "id": "node/9274478729"
     }
   ]
 }
