@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-26T16:25:40Z",
+  "timestamp": "2021-11-29T12:49:09Z",
   "features": [
     {
       "type": "Feature",
@@ -914,6 +914,7 @@
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:type": "underground",
+        "mapillary": "1508425486180982",
         "water_source": "main"
       },
       "geometry": {
@@ -1189,6 +1190,101 @@
         ]
       },
       "id": "node/9286343124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293136354",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "394759302422310",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8997192,
+          47.9042947
+        ]
+      },
+      "id": "node/9293136354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293167115",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "950164185590024",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8998034,
+          47.9016752
+        ]
+      },
+      "id": "node/9293167115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293183857",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "5280344705316123",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9010009,
+          47.9025317
+        ]
+      },
+      "id": "node/9293183857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293213011",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "429455725498999",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9007883,
+          47.9016822
+        ]
+      },
+      "id": "node/9293213011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293218157",
+        "colour": "red",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground",
+        "mapillary": "1114796709329057",
+        "water_source": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8916786,
+          47.9000542
+        ]
+      },
+      "id": "node/9293218157"
     }
   ]
 }
